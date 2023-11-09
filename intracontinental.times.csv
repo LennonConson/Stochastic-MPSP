@@ -1,0 +1,201 @@
+Origin,Port,Duration
+Fort Hood,Beaumont,1
+Fort Hood,Gulfport,2
+Fort Hood,Charleston,3
+Fort Hood,Jacksonville,3
+Fort Hood,Morehead City,3
+Fort Hood,Portsmouth,4
+Fort Hood,Oakland,4
+Fort Hood,Port Hueneme,3
+Fort Hood,San Diego,3
+Fort Hood,Tacoma,5
+Fort Lewis,Beaumont,5
+Fort Lewis,Gulfport,6
+Fort Lewis,Charleston,7
+Fort Lewis,Jacksonville,6
+Fort Lewis,Morehead City,7
+Fort Lewis,Portsmouth,6
+Fort Lewis,Oakland,2
+Fort Lewis,Port Hueneme,3
+Fort Lewis,San Diego,3
+Fort Lewis,Tacoma,1
+Camp Atterbury,Beaumont,2
+Camp Atterbury,Gulfport,2
+Camp Atterbury,Charleston,2
+Camp Atterbury,Jacksonville,2
+Camp Atterbury,Morehead City,2
+Camp Atterbury,Portsmouth,2
+Camp Atterbury,Oakland,5
+Camp Atterbury,Port Hueneme,5
+Camp Atterbury,San Diego,5
+Camp Atterbury,Tacoma,5
+Fort Bliss,Beaumont,2
+Fort Bliss,Gulfport,3
+Fort Bliss,Charleston,4
+Fort Bliss,Jacksonville,4
+Fort Bliss,Morehead City,5
+Fort Bliss,Portsmouth,5
+Fort Bliss,Oakland,3
+Fort Bliss,Port Hueneme,2
+Fort Bliss,San Diego,2
+Fort Bliss,Tacoma,4
+Camp Pendleton,Beaumont,4
+Camp Pendleton,Gulfport,4
+Camp Pendleton,Charleston,6
+Camp Pendleton,Jacksonville,5
+Camp Pendleton,Morehead City,6
+Camp Pendleton,Portsmouth,6
+Camp Pendleton,Oakland,2
+Camp Pendleton,Port Hueneme,1
+Camp Pendleton,San Diego,1
+Camp Pendleton,Tacoma,3
+Fort Stewart,Beaumont,2
+Fort Stewart,Gulfport,2
+Fort Stewart,Charleston,1
+Fort Stewart,Jacksonville,1
+Fort Stewart,Morehead City,1
+Fort Stewart,Portsmouth,2
+Fort Stewart,Oakland,6
+Fort Stewart,Port Hueneme,6
+Fort Stewart,San Diego,6
+Fort Stewart,Tacoma,6
+Fort Bragg,Beaumont,3
+Fort Bragg,Gulfport,2
+Fort Bragg,Charleston,1
+Fort Bragg,Jacksonville,1
+Fort Bragg,Morehead City,1
+Fort Bragg,Portsmouth,1
+Fort Bragg,Oakland,6
+Fort Bragg,Port Hueneme,6
+Fort Bragg,San Diego,6
+Fort Bragg,Tacoma,7
+Fort McCoy,Beaumont,3
+Fort McCoy,Gulfport,3
+Fort McCoy,Charleston,3
+Fort McCoy,Jacksonville,3
+Fort McCoy,Morehead City,3
+Fort McCoy,Portsmouth,3
+Fort McCoy,Oakland,5
+Fort McCoy,Port Hueneme,5
+Fort McCoy,San Diego,5
+Fort McCoy,Tacoma,4
+Fort Carson,Beaumont,2
+Fort Carson,Gulfport,3
+Fort Carson,Charleston,4
+Fort Carson,Jacksonville,4
+Fort Carson,Morehead City,5
+Fort Carson,Portsmouth,4
+Fort Carson,Oakland,3
+Fort Carson,Port Hueneme,3
+Fort Carson,San Diego,3
+Fort Carson,Tacoma,3
+Camp Lejune,Beaumont,3
+Camp Lejune,Gulfport,2
+Camp Lejune,Charleston,1
+Camp Lejune,Jacksonville,2
+Camp Lejune,Morehead City,1
+Camp Lejune,Portsmouth,1
+Camp Lejune,Oakland,7
+Camp Lejune,Port Hueneme,6
+Camp Lejune,San Diego,6
+Camp Lejune,Tacoma,7
+Fort Campbell,Beaumont,2
+Fort Campbell,Gulfport,2
+Fort Campbell,Charleston,2
+Fort Campbell,Jacksonville,2
+Fort Campbell,Morehead City,2
+Fort Campbell,Portsmouth,2
+Fort Campbell,Oakland,5
+Fort Campbell,Port Hueneme,5
+Fort Campbell,San Diego,5
+Fort Campbell,Tacoma,5
+Fort Riley,Beaumont,2
+Fort Riley,Gulfport,2
+Fort Riley,Charleston,3
+Fort Riley,Jacksonville,3
+Fort Riley,Morehead City,3
+Fort Riley,Portsmouth,3
+Fort Riley,Oakland,4
+Fort Riley,Port Hueneme,4
+Fort Riley,San Diego,4
+Fort Riley,Tacoma,4
+Fort Drum,Beaumont,4
+Fort Drum,Gulfport,3
+Fort Drum,Charleston,2
+Fort Drum,Jacksonville,3
+Fort Drum,Morehead City,2
+Fort Drum,Portsmouth,2
+Fort Drum,Oakland,6
+Fort Drum,Port Hueneme,6
+Fort Drum,San Diego,6
+Fort Drum,Tacoma,6
+Fort Dix,Beaumont,3
+Fort Dix,Gulfport,3
+Fort Dix,Charleston,2
+Fort Dix,Jacksonville,2
+Fort Dix,Morehead City,2
+Fort Dix,Portsmouth,1
+Fort Dix,Oakland,6
+Fort Dix,Port Hueneme,6
+Fort Dix,San Diego,6
+Fort Dix,Tacoma,6
+Fort Polk,Beaumont,1
+Fort Polk,Gulfport,1
+Fort Polk,Charleston,3
+Fort Polk,Jacksonville,2
+Fort Polk,Morehead City,3
+Fort Polk,Portsmouth,3
+Fort Polk,Oakland,5
+Fort Polk,Port Hueneme,4
+Fort Polk,San Diego,4
+Fort Polk,Tacoma,5
+Fort Still,Beaumont,2
+Fort Still,Gulfport,2
+Fort Still,Charleston,3
+Fort Still,Jacksonville,3
+Fort Still,Morehead City,4
+Fort Still,Portsmouth,4
+Fort Still,Oakland,4
+Fort Still,Port Hueneme,4
+Fort Still,San Diego,4
+Fort Still,Tacoma,5
+Fort Irwin,Beaumont,4
+Fort Irwin,Gulfport,4
+Fort Irwin,Charleston,6
+Fort Irwin,Jacksonville,5
+Fort Irwin,Morehead City,6
+Fort Irwin,Portsmouth,6
+Fort Irwin,Oakland,1
+Fort Irwin,Port Hueneme,1
+Fort Irwin,San Diego,1
+Fort Irwin,Tacoma,3
+Fort Knox,Beaumont,2
+Fort Knox,Gulfport,2
+Fort Knox,Charleston,2
+Fort Knox,Jacksonville,2
+Fort Knox,Morehead City,2
+Fort Knox,Portsmouth,2
+Fort Knox,Oakland,5
+Fort Knox,Port Hueneme,5
+Fort Knox,San Diego,5
+Fort Knox,Tacoma,5
+Fort Leonard Wood,Beaumont,2
+Fort Leonard Wood,Gulfport,2
+Fort Leonard Wood,Charleston,3
+Fort Leonard Wood,Jacksonville,3
+Fort Leonard Wood,Morehead City,3
+Fort Leonard Wood,Portsmouth,3
+Fort Leonard Wood,Oakland,5
+Fort Leonard Wood,Port Hueneme,4
+Fort Leonard Wood,San Diego,4
+Fort Leonard Wood,Tacoma,5
+Camp Shelby,Beaumont,1
+Camp Shelby,Gulfport,1
+Camp Shelby,Charleston,2
+Camp Shelby,Jacksonville,2
+Camp Shelby,Morehead City,2
+Camp Shelby,Portsmouth,2
+Camp Shelby,Oakland,5
+Camp Shelby,Port Hueneme,5
+Camp Shelby,San Diego,5
+Camp Shelby,Tacoma,6
