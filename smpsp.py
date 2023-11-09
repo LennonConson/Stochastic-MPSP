@@ -16,6 +16,7 @@ import datetime
 
 packages_file = 'packages.csv'
 
+# TODO error handeling for encoding packages.
 # Initialize a packages dictionary
 P = {}
 
@@ -65,4 +66,91 @@ indexDate = earliestDate
 while indexDate <= latestDate:
     T.append(indexDate)
     indexDate += datetime.timedelta(days=1)
+
+# Setup intracontential travel time durations
+# TODO Add error handeling
+# TODO Delete useless entries
+c = {}
+J = set()
+
+intraC_file = 'intracontinental.times.csv'
+
+with open(intraC_file, 'r') as file:
+    csv_reader = csv.reader(file)
+
+    next(csv_reader)
+
+    for row in csv_reader:
+        key = (row[0], row[1])
+        value = float(row[2])
+        c[key] = value
+        J.add(row[1])
+
+print("Check to make sure there are no slight variations of spelling in list of Origins.")
+print("")
+print("Origins")
+print("-------------------")
+for i in I:
+    print(i)
+
+print("Check to make sure there are no slight variations of spelling in list of SPOE.")
+print("")
+print("SPOE")
+print("-------------------")
+for j in J:
+    print(j)
+
+print("Check to make sure there are no slight variations of spelling in list of SPOD.")
+print("")
+print("SPOD")
+print("-------------------")
+for k in K:
+    print(k)
+
+# Decision Variables
+model.x = Var(P.keys(), J, T, domain=Binary)
+
+print("")
+print("Dimension of x_pjt is " + str(len(model.x)))
+
+
+# Objective
+# TODO Current Objective not very useful
+def obj_rule(model):
+    return sum(c[P[p]['Origin'],j ] * model.x[p,j,t] for p in P.keys() for j in J for t in T)
+
+model.obj = pyo.Objective(rule=obj_rule)
+
+# Constraints
+
+# Ensure a package only goes through a single port
+def singlePort(model, p):
+    return sum(model.x[p, j, t] for j in J for t in T) == 1
+
+model.constSinglePort = Constraint(P.keys(), rule=singlePort)
+
+print("Dimension of Single Port Constraint is " + str(len(model.constSinglePort)))
+
+
+
+solver = SolverFactory('cplex')
+results = solver.solve(model)
+
+print("Optimal solution found with objective value:", model.obj())
+
+routes = []
+
+for p in P.keys():
+    for j in J:
+        for t in T:
+            i = P[p]['Origin']
+            if model.x[p, j, t].value == 1:
+                routes.append((p,i, t, j, c[(i,j)]))
+
+routes_file = 'routes.csv'
+with open(routes_file, 'w', newline='') as csvfile:
+    csv_writer = csv.writer(csvfile)
+    csv_writer.writerow(['Package ID', 'Origin', 'Depart Origin','SPOE','Travel Time to SPOE'])
+    csv_writer.writerows(routes)
+
 
