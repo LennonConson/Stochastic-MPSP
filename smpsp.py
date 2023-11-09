@@ -166,6 +166,11 @@ def rld(model,p):
 model.constRLD = Constraint(P.keys(), rule=rld)
 
 # Ensure a SPOE does not exceed daily processing.
+def capSPOE(model,j):
+    return sum(model.x[p,j,t] for p in P.keys() for t in T) <= b[j]
+
+model.constCapSPOE = Constraint(J, rule=capSPOE)
+
 
 print("Dimension of RLD Constraint is " + str(len(model.constRLD)))
 
