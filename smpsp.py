@@ -117,7 +117,7 @@ print("Dimension of x_pjt is " + str(len(model.x)))
 # Objective
 # TODO Current Objective not very useful
 def obj_rule(model):
-    return sum(c[P[p]['Origin'],j ] * model.x[p,j,t] for p in P.keys() for j in J for t in T)
+    return sum(((t - earliestDate).days + c[P[p]['Origin'],j ]) * model.x[p,j,t] for p in P.keys() for j in J for t in T)
 
 model.obj = pyo.Objective(rule=obj_rule)
 
@@ -133,39 +133,43 @@ print("Dimension of Single Port Constraint is " + str(len(model.constSinglePort)
 
 # Ensure a package doesn't leave origin before the RLD
 def rld(model,p):
-
-    eldDates = []
-
     indexDate = earliestDate
 
-    while indexDate < latestDate:
+    eldDates = [indexDate]
+    indexDate += datetime.timedelta(days=1)
+    
+    lastDate = P[p]['RLD']
+
+    while indexDate < lastDate:
         eldDates.append(indexDate)
         indexDate += datetime.timedelta(days=1)
 
-
-    lastDate = P[p]['RLD']
     return sum(model.x[p,j,t] for j in J for t in eldDates) == 0
 
-model.contRLD = Constraint(P.keys(), rule=rld)
+model.constRLD = Constraint(P.keys(), rule=rld)
+
+print("Dimension of RLD Constraint is " + str(len(model.constRLD)))
 
 solver = SolverFactory('cplex')
 results = solver.solve(model)
 
 print("Optimal solution found with objective value:", model.obj())
 
+# Routes Output Routine
 routes = []
 
 for p in P.keys():
     for j in J:
         for t in T:
             i = P[p]['Origin']
+            RLD = P[p]['RLD']
             if model.x[p, j, t].value == 1:
-                routes.append((p,i, t, j, c[(i,j)]))
+                routes.append((p,i, RLD, t, j, c[(i,j)]))
 
 routes_file = 'routes.csv'
 with open(routes_file, 'w', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(['Package ID', 'Origin', 'Depart Origin','SPOE','Travel Time to SPOE'])
+    csv_writer.writerow(['Package ID', 'Origin', 'RLD', 'Depart Origin','SPOE','Travel Time to SPOE'])
     csv_writer.writerows(routes)
 print("Optimum Route Saved as "+routes_file)
 
