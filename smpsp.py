@@ -131,7 +131,22 @@ model.constSinglePort = Constraint(P.keys(), rule=singlePort)
 
 print("Dimension of Single Port Constraint is " + str(len(model.constSinglePort)))
 
+# Ensure a package doesn't leave origin before the RLD
+def rld(model,p):
 
+    eldDates = []
+
+    indexDate = earliestDate
+
+    while indexDate < latestDate:
+        eldDates.append(indexDate)
+        indexDate += datetime.timedelta(days=1)
+
+
+    lastDate = P[p]['RLD']
+    return sum(model.x[p,j,t] for j in J for t in eldDates) == 0
+
+model.contRLD = Constraint(P.keys(), rule=rld)
 
 solver = SolverFactory('cplex')
 results = solver.solve(model)
@@ -152,5 +167,5 @@ with open(routes_file, 'w', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     csv_writer.writerow(['Package ID', 'Origin', 'Depart Origin','SPOE','Travel Time to SPOE'])
     csv_writer.writerows(routes)
-
+print("Optimum Route Saved as "+routes_file)
 

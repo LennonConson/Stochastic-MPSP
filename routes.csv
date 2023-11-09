@@ -1,1001 +1,1001 @@
 Package ID,Origin,Depart Origin,SPOE,Travel Time to SPOE
-1,Fort Hood,2026-01-21,Beaumont,1.0
-2,Fort Lewis,2026-01-05,Tacoma,1.0
-3,Camp Atterbury,2026-01-09,Gulfport,2.0
-4,Fort Bliss,2026-01-25,San Diego,2.0
-5,Camp Pendleton,2026-01-11,Port Hueneme,1.0
-6,Fort Stewart,2025-12-30,Jacksonville,1.0
-7,Fort Bragg,2026-01-22,Portsmouth,1.0
-8,Fort McCoy,2025-12-31,Jacksonville,3.0
-9,Fort Carson,2025-12-27,Beaumont,2.0
-10,Camp Lejune,2026-01-31,Morehead City,1.0
-11,Fort Campbell,2025-12-31,Beaumont,2.0
-12,Fort Riley,2026-01-08,Beaumont,2.0
-13,Fort Drum,2025-12-30,Morehead City,2.0
-14,Fort Dix,2026-01-15,Portsmouth,1.0
-15,Fort Polk,2026-01-04,Beaumont,1.0
-16,Fort Still,2026-01-10,Gulfport,2.0
-17,Fort Irwin,2025-12-23,San Diego,1.0
-18,Fort Knox,2026-01-23,Jacksonville,2.0
-19,Fort Leonard Wood,2025-12-26,Beaumont,2.0
-20,Camp Shelby,2026-01-14,Gulfport,1.0
-21,Fort Hood,2026-01-29,Beaumont,1.0
-22,Fort Lewis,2026-01-18,Tacoma,1.0
-23,Camp Atterbury,2026-01-11,Morehead City,2.0
-24,Fort Bliss,2026-01-28,San Diego,2.0
-25,Camp Pendleton,2026-01-18,Port Hueneme,1.0
-26,Fort Stewart,2026-02-05,Charleston,1.0
-27,Fort Bragg,2026-01-12,Portsmouth,1.0
-28,Fort McCoy,2026-02-01,Gulfport,3.0
-29,Fort Carson,2026-01-23,Beaumont,2.0
-30,Camp Lejune,2026-02-05,Charleston,1.0
-31,Fort Campbell,2026-01-12,Jacksonville,2.0
-32,Fort Riley,2026-01-16,Beaumont,2.0
-33,Fort Drum,2025-12-23,Charleston,2.0
-34,Fort Dix,2025-12-23,Portsmouth,1.0
-35,Fort Polk,2026-01-03,Beaumont,1.0
-36,Fort Still,2025-12-23,Gulfport,2.0
-37,Fort Irwin,2025-12-28,Oakland,1.0
-38,Fort Knox,2026-02-04,Gulfport,2.0
-39,Fort Leonard Wood,2026-01-16,Gulfport,2.0
-40,Camp Shelby,2026-01-05,Beaumont,1.0
-41,Fort Hood,2025-12-29,Beaumont,1.0
-42,Fort Lewis,2026-01-02,Tacoma,1.0
-43,Camp Atterbury,2025-12-22,Portsmouth,2.0
-44,Fort Bliss,2026-01-06,Beaumont,2.0
-45,Camp Pendleton,2026-01-05,San Diego,1.0
-46,Fort Stewart,2026-01-27,Jacksonville,1.0
-47,Fort Bragg,2025-12-22,Jacksonville,1.0
-48,Fort McCoy,2025-12-30,Morehead City,3.0
-49,Fort Carson,2026-01-13,Beaumont,2.0
-50,Camp Lejune,2026-01-23,Morehead City,1.0
-51,Fort Campbell,2026-02-08,Portsmouth,2.0
-52,Fort Riley,2026-01-05,Gulfport,2.0
-53,Fort Drum,2025-12-22,Morehead City,2.0
-54,Fort Dix,2026-01-27,Portsmouth,1.0
-55,Fort Polk,2026-01-02,Beaumont,1.0
-56,Fort Still,2025-12-24,Beaumont,2.0
-57,Fort Irwin,2026-02-03,San Diego,1.0
-58,Fort Knox,2026-01-09,Beaumont,2.0
-59,Fort Leonard Wood,2026-01-20,Beaumont,2.0
-60,Camp Shelby,2026-01-31,Beaumont,1.0
-61,Fort Hood,2025-12-29,Beaumont,1.0
-62,Fort Lewis,2026-01-05,Tacoma,1.0
-63,Camp Atterbury,2026-01-05,Portsmouth,2.0
-64,Fort Bliss,2026-01-21,San Diego,2.0
-65,Camp Pendleton,2026-01-25,Port Hueneme,1.0
-66,Fort Stewart,2026-01-19,Charleston,1.0
-67,Fort Bragg,2026-02-09,Jacksonville,1.0
-68,Fort McCoy,2025-12-22,Portsmouth,3.0
-69,Fort Carson,2025-12-23,Beaumont,2.0
-70,Camp Lejune,2025-12-24,Charleston,1.0
-71,Fort Campbell,2026-01-02,Jacksonville,2.0
-72,Fort Riley,2025-12-22,Gulfport,2.0
-73,Fort Drum,2026-01-08,Portsmouth,2.0
-74,Fort Dix,2026-01-14,Portsmouth,1.0
-75,Fort Polk,2025-12-26,Beaumont,1.0
-76,Fort Still,2026-01-21,Gulfport,2.0
-77,Fort Irwin,2026-02-09,Port Hueneme,1.0
-78,Fort Knox,2025-12-23,Portsmouth,2.0
-79,Fort Leonard Wood,2026-01-13,Gulfport,2.0
-80,Camp Shelby,2026-01-19,Gulfport,1.0
+1,Fort Hood,2026-02-09,Beaumont,1.0
+2,Fort Lewis,2026-02-09,Tacoma,1.0
+3,Camp Atterbury,2026-02-09,Portsmouth,2.0
+4,Fort Bliss,2026-02-09,San Diego,2.0
+5,Camp Pendleton,2026-02-09,San Diego,1.0
+6,Fort Stewart,2026-02-09,Morehead City,1.0
+7,Fort Bragg,2026-02-09,Portsmouth,1.0
+8,Fort McCoy,2026-02-09,Portsmouth,3.0
+9,Fort Carson,2026-02-09,Beaumont,2.0
+10,Camp Lejune,2026-02-09,Portsmouth,1.0
+11,Fort Campbell,2026-02-09,Portsmouth,2.0
+12,Fort Riley,2026-02-09,Beaumont,2.0
+13,Fort Drum,2026-02-09,Portsmouth,2.0
+14,Fort Dix,2026-02-09,Portsmouth,1.0
+15,Fort Polk,2026-02-09,Gulfport,1.0
+16,Fort Still,2026-02-09,Beaumont,2.0
+17,Fort Irwin,2026-02-09,Oakland,1.0
+18,Fort Knox,2026-02-09,Portsmouth,2.0
+19,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+20,Camp Shelby,2026-02-09,Gulfport,1.0
+21,Fort Hood,2026-02-09,Beaumont,1.0
+22,Fort Lewis,2026-02-09,Tacoma,1.0
+23,Camp Atterbury,2026-02-09,Portsmouth,2.0
+24,Fort Bliss,2026-02-09,San Diego,2.0
+25,Camp Pendleton,2026-02-09,San Diego,1.0
+26,Fort Stewart,2026-02-09,Morehead City,1.0
+27,Fort Bragg,2026-02-09,Morehead City,1.0
+28,Fort McCoy,2026-02-09,Portsmouth,3.0
+29,Fort Carson,2026-02-09,Beaumont,2.0
+30,Camp Lejune,2026-02-09,Charleston,1.0
+31,Fort Campbell,2026-02-09,Charleston,2.0
+32,Fort Riley,2026-02-09,Beaumont,2.0
+33,Fort Drum,2026-02-09,Charleston,2.0
+34,Fort Dix,2026-02-09,Portsmouth,1.0
+35,Fort Polk,2026-02-09,Gulfport,1.0
+36,Fort Still,2026-02-09,Beaumont,2.0
+37,Fort Irwin,2026-02-09,Oakland,1.0
+38,Fort Knox,2026-02-09,Portsmouth,2.0
+39,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+40,Camp Shelby,2026-02-09,Gulfport,1.0
+41,Fort Hood,2026-02-09,Beaumont,1.0
+42,Fort Lewis,2026-02-09,Tacoma,1.0
+43,Camp Atterbury,2026-02-09,Portsmouth,2.0
+44,Fort Bliss,2026-02-09,San Diego,2.0
+45,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+46,Fort Stewart,2026-02-09,Charleston,1.0
+47,Fort Bragg,2026-02-09,Jacksonville,1.0
+48,Fort McCoy,2026-02-09,Portsmouth,3.0
+49,Fort Carson,2026-02-09,Beaumont,2.0
+50,Camp Lejune,2026-02-09,Morehead City,1.0
+51,Fort Campbell,2026-02-09,Portsmouth,2.0
+52,Fort Riley,2026-02-09,Beaumont,2.0
+53,Fort Drum,2026-02-09,Portsmouth,2.0
+54,Fort Dix,2026-02-09,Portsmouth,1.0
+55,Fort Polk,2026-02-09,Gulfport,1.0
+56,Fort Still,2026-02-09,Beaumont,2.0
+57,Fort Irwin,2026-02-09,Port Hueneme,1.0
+58,Fort Knox,2026-02-09,Portsmouth,2.0
+59,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+60,Camp Shelby,2026-02-09,Beaumont,1.0
+61,Fort Hood,2026-02-09,Beaumont,1.0
+62,Fort Lewis,2026-02-09,Tacoma,1.0
+63,Camp Atterbury,2026-02-09,Morehead City,2.0
+64,Fort Bliss,2026-02-09,San Diego,2.0
+65,Camp Pendleton,2026-02-09,San Diego,1.0
+66,Fort Stewart,2026-02-09,Jacksonville,1.0
+67,Fort Bragg,2026-02-09,Morehead City,1.0
+68,Fort McCoy,2026-02-09,Portsmouth,3.0
+69,Fort Carson,2026-02-09,Beaumont,2.0
+70,Camp Lejune,2026-02-09,Portsmouth,1.0
+71,Fort Campbell,2026-02-09,Portsmouth,2.0
+72,Fort Riley,2026-02-09,Beaumont,2.0
+73,Fort Drum,2026-02-09,Portsmouth,2.0
+74,Fort Dix,2026-02-09,Portsmouth,1.0
+75,Fort Polk,2026-02-09,Beaumont,1.0
+76,Fort Still,2026-02-09,Beaumont,2.0
+77,Fort Irwin,2026-02-09,Oakland,1.0
+78,Fort Knox,2026-02-09,Portsmouth,2.0
+79,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+80,Camp Shelby,2026-02-09,Beaumont,1.0
 81,Fort Hood,2026-02-09,Beaumont,1.0
-82,Fort Lewis,2026-02-03,Tacoma,1.0
-83,Camp Atterbury,2026-01-09,Portsmouth,2.0
-84,Fort Bliss,2025-12-25,Port Hueneme,2.0
-85,Camp Pendleton,2025-12-29,Port Hueneme,1.0
-86,Fort Stewart,2025-12-27,Charleston,1.0
-87,Fort Bragg,2026-02-07,Portsmouth,1.0
-88,Fort McCoy,2025-12-23,Portsmouth,3.0
-89,Fort Carson,2026-01-25,Beaumont,2.0
-90,Camp Lejune,2026-01-01,Charleston,1.0
-91,Fort Campbell,2026-01-25,Portsmouth,2.0
-92,Fort Riley,2026-01-31,Gulfport,2.0
-93,Fort Drum,2025-12-22,Charleston,2.0
-94,Fort Dix,2025-12-30,Portsmouth,1.0
-95,Fort Polk,2026-01-28,Beaumont,1.0
-96,Fort Still,2026-01-22,Gulfport,2.0
-97,Fort Irwin,2025-12-22,Oakland,1.0
-98,Fort Knox,2026-01-11,Portsmouth,2.0
-99,Fort Leonard Wood,2026-01-31,Gulfport,2.0
-100,Camp Shelby,2025-12-26,Gulfport,1.0
-101,Fort Hood,2025-12-30,Beaumont,1.0
-102,Fort Lewis,2026-02-06,Tacoma,1.0
-103,Camp Atterbury,2026-01-13,Portsmouth,2.0
-104,Fort Bliss,2025-12-30,Port Hueneme,2.0
-105,Camp Pendleton,2026-01-11,Port Hueneme,1.0
-106,Fort Stewart,2026-01-06,Charleston,1.0
-107,Fort Bragg,2026-01-09,Portsmouth,1.0
-108,Fort McCoy,2025-12-23,Portsmouth,3.0
-109,Fort Carson,2026-01-03,Beaumont,2.0
-110,Camp Lejune,2025-12-24,Morehead City,1.0
-111,Fort Campbell,2026-01-26,Beaumont,2.0
-112,Fort Riley,2026-01-10,Gulfport,2.0
-113,Fort Drum,2026-01-10,Morehead City,2.0
-114,Fort Dix,2026-01-12,Portsmouth,1.0
-115,Fort Polk,2026-01-26,Gulfport,1.0
-116,Fort Still,2025-12-22,Beaumont,2.0
-117,Fort Irwin,2026-01-06,Oakland,1.0
-118,Fort Knox,2026-01-08,Jacksonville,2.0
-119,Fort Leonard Wood,2026-01-21,Beaumont,2.0
-120,Camp Shelby,2026-01-22,Beaumont,1.0
-121,Fort Hood,2026-01-09,Beaumont,1.0
-122,Fort Lewis,2026-02-04,Tacoma,1.0
-123,Camp Atterbury,2026-01-03,Beaumont,2.0
-124,Fort Bliss,2026-01-14,Beaumont,2.0
-125,Camp Pendleton,2026-01-07,Port Hueneme,1.0
-126,Fort Stewart,2025-12-29,Charleston,1.0
-127,Fort Bragg,2026-02-07,Portsmouth,1.0
-128,Fort McCoy,2025-12-22,Portsmouth,3.0
-129,Fort Carson,2026-01-21,Beaumont,2.0
-130,Camp Lejune,2026-02-08,Morehead City,1.0
-131,Fort Campbell,2025-12-27,Charleston,2.0
-132,Fort Riley,2025-12-23,Gulfport,2.0
-133,Fort Drum,2026-01-12,Portsmouth,2.0
-134,Fort Dix,2026-02-07,Portsmouth,1.0
-135,Fort Polk,2026-01-27,Gulfport,1.0
-136,Fort Still,2025-12-23,Gulfport,2.0
-137,Fort Irwin,2025-12-27,Oakland,1.0
-138,Fort Knox,2025-12-23,Portsmouth,2.0
-139,Fort Leonard Wood,2026-01-20,Gulfport,2.0
-140,Camp Shelby,2026-01-07,Beaumont,1.0
-141,Fort Hood,2026-01-12,Beaumont,1.0
-142,Fort Lewis,2026-01-02,Tacoma,1.0
-143,Camp Atterbury,2025-12-31,Portsmouth,2.0
-144,Fort Bliss,2025-12-23,Port Hueneme,2.0
-145,Camp Pendleton,2025-12-30,San Diego,1.0
-146,Fort Stewart,2026-01-08,Morehead City,1.0
-147,Fort Bragg,2026-01-20,Charleston,1.0
-148,Fort McCoy,2025-12-22,Portsmouth,3.0
-149,Fort Carson,2026-01-04,Beaumont,2.0
-150,Camp Lejune,2026-01-04,Morehead City,1.0
-151,Fort Campbell,2026-01-28,Portsmouth,2.0
-152,Fort Riley,2026-01-14,Gulfport,2.0
-153,Fort Drum,2025-12-30,Portsmouth,2.0
-154,Fort Dix,2026-01-05,Portsmouth,1.0
-155,Fort Polk,2026-01-26,Beaumont,1.0
-156,Fort Still,2026-02-07,Gulfport,2.0
-157,Fort Irwin,2025-12-30,San Diego,1.0
-158,Fort Knox,2026-02-01,Portsmouth,2.0
-159,Fort Leonard Wood,2026-01-04,Beaumont,2.0
-160,Camp Shelby,2026-01-31,Gulfport,1.0
-161,Fort Hood,2026-01-16,Beaumont,1.0
-162,Fort Lewis,2026-01-04,Tacoma,1.0
-163,Camp Atterbury,2026-01-27,Portsmouth,2.0
-164,Fort Bliss,2026-01-20,Port Hueneme,2.0
-165,Camp Pendleton,2026-02-04,Port Hueneme,1.0
-166,Fort Stewart,2026-01-15,Jacksonville,1.0
-167,Fort Bragg,2025-12-30,Portsmouth,1.0
-168,Fort McCoy,2025-12-22,Portsmouth,3.0
-169,Fort Carson,2026-01-04,Beaumont,2.0
-170,Camp Lejune,2026-01-29,Charleston,1.0
-171,Fort Campbell,2026-01-20,Portsmouth,2.0
-172,Fort Riley,2025-12-22,Gulfport,2.0
-173,Fort Drum,2025-12-26,Morehead City,2.0
-174,Fort Dix,2025-12-27,Portsmouth,1.0
-175,Fort Polk,2026-01-23,Gulfport,1.0
-176,Fort Still,2026-01-01,Gulfport,2.0
-177,Fort Irwin,2026-01-27,San Diego,1.0
-178,Fort Knox,2026-01-05,Morehead City,2.0
-179,Fort Leonard Wood,2026-02-09,Gulfport,2.0
-180,Camp Shelby,2026-01-25,Gulfport,1.0
-181,Fort Hood,2026-02-01,Beaumont,1.0
-182,Fort Lewis,2026-01-31,Tacoma,1.0
-183,Camp Atterbury,2026-01-07,Portsmouth,2.0
-184,Fort Bliss,2026-01-07,Port Hueneme,2.0
-185,Camp Pendleton,2026-02-01,San Diego,1.0
-186,Fort Stewart,2026-01-10,Charleston,1.0
-187,Fort Bragg,2026-01-09,Morehead City,1.0
-188,Fort McCoy,2026-01-28,Morehead City,3.0
-189,Fort Carson,2025-12-25,Beaumont,2.0
-190,Camp Lejune,2026-01-04,Morehead City,1.0
-191,Fort Campbell,2026-01-02,Portsmouth,2.0
-192,Fort Riley,2026-01-04,Gulfport,2.0
-193,Fort Drum,2026-01-07,Morehead City,2.0
-194,Fort Dix,2026-01-11,Portsmouth,1.0
-195,Fort Polk,2026-01-17,Gulfport,1.0
-196,Fort Still,2025-12-24,Gulfport,2.0
-197,Fort Irwin,2026-01-18,Port Hueneme,1.0
-198,Fort Knox,2026-01-19,Morehead City,2.0
-199,Fort Leonard Wood,2026-01-18,Gulfport,2.0
-200,Camp Shelby,2026-01-07,Beaumont,1.0
-201,Fort Hood,2026-01-10,Beaumont,1.0
-202,Fort Lewis,2026-01-12,Tacoma,1.0
-203,Camp Atterbury,2026-01-08,Portsmouth,2.0
-204,Fort Bliss,2026-01-09,Beaumont,2.0
-205,Camp Pendleton,2026-02-05,Port Hueneme,1.0
-206,Fort Stewart,2026-02-04,Jacksonville,1.0
-207,Fort Bragg,2026-02-07,Charleston,1.0
-208,Fort McCoy,2025-12-22,Portsmouth,3.0
-209,Fort Carson,2026-01-25,Beaumont,2.0
-210,Camp Lejune,2026-01-06,Portsmouth,1.0
-211,Fort Campbell,2026-01-22,Portsmouth,2.0
-212,Fort Riley,2026-01-19,Gulfport,2.0
-213,Fort Drum,2026-01-05,Morehead City,2.0
-214,Fort Dix,2025-12-30,Portsmouth,1.0
-215,Fort Polk,2026-01-17,Beaumont,1.0
-216,Fort Still,2026-02-02,Gulfport,2.0
-217,Fort Irwin,2026-02-03,Oakland,1.0
-218,Fort Knox,2025-12-30,Gulfport,2.0
-219,Fort Leonard Wood,2026-01-12,Gulfport,2.0
-220,Camp Shelby,2026-01-22,Beaumont,1.0
-221,Fort Hood,2026-01-28,Beaumont,1.0
-222,Fort Lewis,2026-01-18,Tacoma,1.0
-223,Camp Atterbury,2026-01-09,Portsmouth,2.0
-224,Fort Bliss,2025-12-25,Port Hueneme,2.0
-225,Camp Pendleton,2026-01-22,Port Hueneme,1.0
-226,Fort Stewart,2026-01-27,Jacksonville,1.0
-227,Fort Bragg,2026-01-17,Portsmouth,1.0
-228,Fort McCoy,2026-01-03,Portsmouth,3.0
-229,Fort Carson,2025-12-25,Beaumont,2.0
-230,Camp Lejune,2025-12-26,Charleston,1.0
-231,Fort Campbell,2026-02-02,Portsmouth,2.0
-232,Fort Riley,2026-01-03,Gulfport,2.0
-233,Fort Drum,2025-12-31,Morehead City,2.0
+82,Fort Lewis,2026-02-09,Tacoma,1.0
+83,Camp Atterbury,2026-02-09,Portsmouth,2.0
+84,Fort Bliss,2026-02-09,San Diego,2.0
+85,Camp Pendleton,2026-02-09,San Diego,1.0
+86,Fort Stewart,2026-02-09,Jacksonville,1.0
+87,Fort Bragg,2026-02-09,Jacksonville,1.0
+88,Fort McCoy,2026-02-09,Portsmouth,3.0
+89,Fort Carson,2026-02-09,Beaumont,2.0
+90,Camp Lejune,2026-02-09,Charleston,1.0
+91,Fort Campbell,2026-02-09,Portsmouth,2.0
+92,Fort Riley,2026-02-09,Beaumont,2.0
+93,Fort Drum,2026-02-09,Portsmouth,2.0
+94,Fort Dix,2026-02-09,Portsmouth,1.0
+95,Fort Polk,2026-02-09,Beaumont,1.0
+96,Fort Still,2026-02-09,Beaumont,2.0
+97,Fort Irwin,2026-02-09,Oakland,1.0
+98,Fort Knox,2026-02-09,Portsmouth,2.0
+99,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+100,Camp Shelby,2026-02-09,Beaumont,1.0
+101,Fort Hood,2026-02-09,Beaumont,1.0
+102,Fort Lewis,2026-02-09,Tacoma,1.0
+103,Camp Atterbury,2026-02-09,Portsmouth,2.0
+104,Fort Bliss,2026-02-09,San Diego,2.0
+105,Camp Pendleton,2026-02-09,San Diego,1.0
+106,Fort Stewart,2026-02-09,Morehead City,1.0
+107,Fort Bragg,2026-02-09,Charleston,1.0
+108,Fort McCoy,2026-02-09,Portsmouth,3.0
+109,Fort Carson,2026-02-09,Beaumont,2.0
+110,Camp Lejune,2026-02-09,Morehead City,1.0
+111,Fort Campbell,2026-02-09,Jacksonville,2.0
+112,Fort Riley,2026-02-09,Beaumont,2.0
+113,Fort Drum,2026-02-09,Portsmouth,2.0
+114,Fort Dix,2026-02-09,Portsmouth,1.0
+115,Fort Polk,2026-02-09,Gulfport,1.0
+116,Fort Still,2026-02-09,Beaumont,2.0
+117,Fort Irwin,2026-02-09,Oakland,1.0
+118,Fort Knox,2026-02-09,Portsmouth,2.0
+119,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+120,Camp Shelby,2026-02-09,Beaumont,1.0
+121,Fort Hood,2026-02-09,Beaumont,1.0
+122,Fort Lewis,2026-02-09,Tacoma,1.0
+123,Camp Atterbury,2026-02-09,Portsmouth,2.0
+124,Fort Bliss,2026-02-09,San Diego,2.0
+125,Camp Pendleton,2026-02-09,San Diego,1.0
+126,Fort Stewart,2026-02-09,Morehead City,1.0
+127,Fort Bragg,2026-02-09,Jacksonville,1.0
+128,Fort McCoy,2026-02-09,Portsmouth,3.0
+129,Fort Carson,2026-02-09,Beaumont,2.0
+130,Camp Lejune,2026-02-09,Portsmouth,1.0
+131,Fort Campbell,2026-02-09,Portsmouth,2.0
+132,Fort Riley,2026-02-09,Beaumont,2.0
+133,Fort Drum,2026-02-09,Portsmouth,2.0
+134,Fort Dix,2026-02-09,Portsmouth,1.0
+135,Fort Polk,2026-02-09,Gulfport,1.0
+136,Fort Still,2026-02-09,Beaumont,2.0
+137,Fort Irwin,2026-02-09,Oakland,1.0
+138,Fort Knox,2026-02-09,Portsmouth,2.0
+139,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+140,Camp Shelby,2026-02-09,Beaumont,1.0
+141,Fort Hood,2026-02-09,Beaumont,1.0
+142,Fort Lewis,2026-02-09,Tacoma,1.0
+143,Camp Atterbury,2026-02-09,Portsmouth,2.0
+144,Fort Bliss,2026-02-09,San Diego,2.0
+145,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+146,Fort Stewart,2026-02-09,Morehead City,1.0
+147,Fort Bragg,2026-02-09,Portsmouth,1.0
+148,Fort McCoy,2026-02-09,Portsmouth,3.0
+149,Fort Carson,2026-02-09,Beaumont,2.0
+150,Camp Lejune,2026-02-09,Portsmouth,1.0
+151,Fort Campbell,2026-02-09,Portsmouth,2.0
+152,Fort Riley,2026-02-09,Beaumont,2.0
+153,Fort Drum,2026-02-09,Portsmouth,2.0
+154,Fort Dix,2026-02-09,Portsmouth,1.0
+155,Fort Polk,2026-02-09,Beaumont,1.0
+156,Fort Still,2026-02-09,Beaumont,2.0
+157,Fort Irwin,2026-02-09,Oakland,1.0
+158,Fort Knox,2026-02-09,Portsmouth,2.0
+159,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+160,Camp Shelby,2026-02-09,Gulfport,1.0
+161,Fort Hood,2026-02-09,Beaumont,1.0
+162,Fort Lewis,2026-02-09,Tacoma,1.0
+163,Camp Atterbury,2026-02-09,Portsmouth,2.0
+164,Fort Bliss,2026-02-09,San Diego,2.0
+165,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+166,Fort Stewart,2026-02-09,Morehead City,1.0
+167,Fort Bragg,2026-02-09,Morehead City,1.0
+168,Fort McCoy,2026-02-09,Portsmouth,3.0
+169,Fort Carson,2026-02-09,Beaumont,2.0
+170,Camp Lejune,2026-02-09,Morehead City,1.0
+171,Fort Campbell,2026-02-09,Portsmouth,2.0
+172,Fort Riley,2026-02-09,Beaumont,2.0
+173,Fort Drum,2026-02-09,Portsmouth,2.0
+174,Fort Dix,2026-02-09,Portsmouth,1.0
+175,Fort Polk,2026-02-09,Gulfport,1.0
+176,Fort Still,2026-02-09,Beaumont,2.0
+177,Fort Irwin,2026-02-09,Port Hueneme,1.0
+178,Fort Knox,2026-02-09,Portsmouth,2.0
+179,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+180,Camp Shelby,2026-02-09,Beaumont,1.0
+181,Fort Hood,2026-02-09,Beaumont,1.0
+182,Fort Lewis,2026-02-09,Tacoma,1.0
+183,Camp Atterbury,2026-02-09,Portsmouth,2.0
+184,Fort Bliss,2026-02-09,San Diego,2.0
+185,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+186,Fort Stewart,2026-02-09,Charleston,1.0
+187,Fort Bragg,2026-02-09,Jacksonville,1.0
+188,Fort McCoy,2026-02-09,Portsmouth,3.0
+189,Fort Carson,2026-02-09,Beaumont,2.0
+190,Camp Lejune,2026-02-09,Portsmouth,1.0
+191,Fort Campbell,2026-02-09,Portsmouth,2.0
+192,Fort Riley,2026-02-09,Beaumont,2.0
+193,Fort Drum,2026-02-09,Morehead City,2.0
+194,Fort Dix,2026-02-09,Portsmouth,1.0
+195,Fort Polk,2026-02-09,Beaumont,1.0
+196,Fort Still,2026-02-09,Beaumont,2.0
+197,Fort Irwin,2026-02-09,Port Hueneme,1.0
+198,Fort Knox,2026-02-09,Portsmouth,2.0
+199,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+200,Camp Shelby,2026-02-09,Beaumont,1.0
+201,Fort Hood,2026-02-09,Beaumont,1.0
+202,Fort Lewis,2026-02-09,Tacoma,1.0
+203,Camp Atterbury,2026-02-09,Morehead City,2.0
+204,Fort Bliss,2026-02-09,San Diego,2.0
+205,Camp Pendleton,2026-02-09,San Diego,1.0
+206,Fort Stewart,2026-02-09,Jacksonville,1.0
+207,Fort Bragg,2026-02-09,Charleston,1.0
+208,Fort McCoy,2026-02-09,Portsmouth,3.0
+209,Fort Carson,2026-02-09,Beaumont,2.0
+210,Camp Lejune,2026-02-09,Morehead City,1.0
+211,Fort Campbell,2026-02-09,Portsmouth,2.0
+212,Fort Riley,2026-02-09,Gulfport,2.0
+213,Fort Drum,2026-02-09,Portsmouth,2.0
+214,Fort Dix,2026-02-09,Portsmouth,1.0
+215,Fort Polk,2026-02-09,Gulfport,1.0
+216,Fort Still,2026-02-09,Beaumont,2.0
+217,Fort Irwin,2026-02-09,San Diego,1.0
+218,Fort Knox,2026-02-09,Portsmouth,2.0
+219,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+220,Camp Shelby,2026-02-09,Gulfport,1.0
+221,Fort Hood,2026-02-09,Beaumont,1.0
+222,Fort Lewis,2026-02-09,Tacoma,1.0
+223,Camp Atterbury,2026-02-09,Portsmouth,2.0
+224,Fort Bliss,2026-02-09,San Diego,2.0
+225,Camp Pendleton,2026-02-09,San Diego,1.0
+226,Fort Stewart,2026-02-09,Morehead City,1.0
+227,Fort Bragg,2026-02-09,Jacksonville,1.0
+228,Fort McCoy,2026-02-09,Portsmouth,3.0
+229,Fort Carson,2026-02-09,Beaumont,2.0
+230,Camp Lejune,2026-02-09,Portsmouth,1.0
+231,Fort Campbell,2026-02-09,Portsmouth,2.0
+232,Fort Riley,2026-02-09,Gulfport,2.0
+233,Fort Drum,2026-02-09,Portsmouth,2.0
 234,Fort Dix,2026-02-09,Portsmouth,1.0
-235,Fort Polk,2025-12-27,Gulfport,1.0
-236,Fort Still,2025-12-22,Beaumont,2.0
-237,Fort Irwin,2026-01-08,San Diego,1.0
-238,Fort Knox,2025-12-26,Jacksonville,2.0
-239,Fort Leonard Wood,2026-01-29,Gulfport,2.0
-240,Camp Shelby,2026-01-05,Beaumont,1.0
-241,Fort Hood,2026-01-10,Beaumont,1.0
-242,Fort Lewis,2025-12-24,Tacoma,1.0
-243,Camp Atterbury,2026-01-12,Morehead City,2.0
-244,Fort Bliss,2026-01-18,Beaumont,2.0
-245,Camp Pendleton,2026-01-21,San Diego,1.0
-246,Fort Stewart,2026-01-02,Jacksonville,1.0
-247,Fort Bragg,2026-01-03,Jacksonville,1.0
-248,Fort McCoy,2026-01-18,Gulfport,3.0
-249,Fort Carson,2025-12-25,Beaumont,2.0
-250,Camp Lejune,2026-01-12,Morehead City,1.0
-251,Fort Campbell,2026-01-29,Morehead City,2.0
-252,Fort Riley,2026-02-02,Gulfport,2.0
-253,Fort Drum,2025-12-26,Morehead City,2.0
-254,Fort Dix,2026-01-04,Portsmouth,1.0
-255,Fort Polk,2026-01-17,Gulfport,1.0
-256,Fort Still,2026-01-22,Gulfport,2.0
-257,Fort Irwin,2026-01-23,Port Hueneme,1.0
-258,Fort Knox,2026-01-06,Portsmouth,2.0
-259,Fort Leonard Wood,2025-12-26,Gulfport,2.0
-260,Camp Shelby,2026-01-05,Beaumont,1.0
-261,Fort Hood,2026-02-07,Beaumont,1.0
-262,Fort Lewis,2026-01-09,Tacoma,1.0
-263,Camp Atterbury,2026-01-16,Portsmouth,2.0
-264,Fort Bliss,2026-01-02,Port Hueneme,2.0
-265,Camp Pendleton,2026-01-16,Port Hueneme,1.0
-266,Fort Stewart,2026-01-14,Morehead City,1.0
-267,Fort Bragg,2025-12-26,Charleston,1.0
-268,Fort McCoy,2025-12-22,Portsmouth,3.0
-269,Fort Carson,2025-12-23,Beaumont,2.0
-270,Camp Lejune,2026-01-16,Portsmouth,1.0
-271,Fort Campbell,2025-12-23,Portsmouth,2.0
-272,Fort Riley,2025-12-23,Gulfport,2.0
-273,Fort Drum,2025-12-31,Portsmouth,2.0
-274,Fort Dix,2026-01-20,Portsmouth,1.0
-275,Fort Polk,2025-12-22,Beaumont,1.0
-276,Fort Still,2026-01-12,Gulfport,2.0
-277,Fort Irwin,2026-01-11,Port Hueneme,1.0
-278,Fort Knox,2025-12-28,Morehead City,2.0
-279,Fort Leonard Wood,2026-01-02,Gulfport,2.0
-280,Camp Shelby,2026-01-04,Gulfport,1.0
-281,Fort Hood,2025-12-23,Beaumont,1.0
-282,Fort Lewis,2026-02-05,Tacoma,1.0
-283,Camp Atterbury,2025-12-31,Morehead City,2.0
-284,Fort Bliss,2026-01-31,San Diego,2.0
-285,Camp Pendleton,2026-01-04,San Diego,1.0
-286,Fort Stewart,2025-12-28,Jacksonville,1.0
-287,Fort Bragg,2026-02-08,Charleston,1.0
-288,Fort McCoy,2025-12-22,Portsmouth,3.0
-289,Fort Carson,2026-01-20,Beaumont,2.0
-290,Camp Lejune,2026-01-21,Portsmouth,1.0
-291,Fort Campbell,2026-01-16,Portsmouth,2.0
-292,Fort Riley,2025-12-25,Gulfport,2.0
-293,Fort Drum,2025-12-23,Portsmouth,2.0
-294,Fort Dix,2025-12-25,Portsmouth,1.0
-295,Fort Polk,2025-12-31,Beaumont,1.0
-296,Fort Still,2026-01-16,Beaumont,2.0
-297,Fort Irwin,2026-01-05,Oakland,1.0
-298,Fort Knox,2026-02-05,Portsmouth,2.0
-299,Fort Leonard Wood,2025-12-31,Gulfport,2.0
-300,Camp Shelby,2026-01-06,Beaumont,1.0
-301,Fort Hood,2026-01-30,Beaumont,1.0
-302,Fort Lewis,2026-02-05,Tacoma,1.0
-303,Camp Atterbury,2026-01-13,Morehead City,2.0
-304,Fort Bliss,2026-01-12,Port Hueneme,2.0
-305,Camp Pendleton,2026-02-01,San Diego,1.0
-306,Fort Stewart,2026-01-17,Charleston,1.0
-307,Fort Bragg,2025-12-22,Jacksonville,1.0
-308,Fort McCoy,2025-12-22,Portsmouth,3.0
-309,Fort Carson,2026-01-04,Beaumont,2.0
-310,Camp Lejune,2025-12-30,Portsmouth,1.0
-311,Fort Campbell,2026-01-13,Portsmouth,2.0
-312,Fort Riley,2026-01-24,Gulfport,2.0
-313,Fort Drum,2026-01-19,Portsmouth,2.0
-314,Fort Dix,2026-01-16,Portsmouth,1.0
-315,Fort Polk,2026-01-03,Gulfport,1.0
-316,Fort Still,2025-12-27,Gulfport,2.0
-317,Fort Irwin,2025-12-23,Port Hueneme,1.0
-318,Fort Knox,2025-12-31,Portsmouth,2.0
-319,Fort Leonard Wood,2025-12-31,Gulfport,2.0
-320,Camp Shelby,2026-01-21,Gulfport,1.0
-321,Fort Hood,2026-01-24,Beaumont,1.0
-322,Fort Lewis,2026-02-08,Tacoma,1.0
-323,Camp Atterbury,2025-12-23,Portsmouth,2.0
-324,Fort Bliss,2025-12-26,Beaumont,2.0
-325,Camp Pendleton,2025-12-24,San Diego,1.0
-326,Fort Stewart,2026-02-07,Charleston,1.0
-327,Fort Bragg,2026-01-20,Charleston,1.0
-328,Fort McCoy,2025-12-22,Portsmouth,3.0
-329,Fort Carson,2025-12-23,Beaumont,2.0
-330,Camp Lejune,2025-12-24,Portsmouth,1.0
-331,Fort Campbell,2026-01-11,Portsmouth,2.0
-332,Fort Riley,2026-02-06,Gulfport,2.0
-333,Fort Drum,2026-01-24,Portsmouth,2.0
-334,Fort Dix,2026-01-24,Portsmouth,1.0
-335,Fort Polk,2026-01-14,Beaumont,1.0
-336,Fort Still,2025-12-26,Gulfport,2.0
-337,Fort Irwin,2026-01-13,Port Hueneme,1.0
-338,Fort Knox,2026-01-18,Portsmouth,2.0
-339,Fort Leonard Wood,2025-12-22,Gulfport,2.0
-340,Camp Shelby,2026-01-18,Gulfport,1.0
-341,Fort Hood,2026-01-25,Beaumont,1.0
-342,Fort Lewis,2025-12-28,Tacoma,1.0
-343,Camp Atterbury,2025-12-25,Portsmouth,2.0
-344,Fort Bliss,2025-12-23,Port Hueneme,2.0
-345,Camp Pendleton,2026-01-02,Port Hueneme,1.0
+235,Fort Polk,2026-02-09,Beaumont,1.0
+236,Fort Still,2026-02-09,Beaumont,2.0
+237,Fort Irwin,2026-02-09,Oakland,1.0
+238,Fort Knox,2026-02-09,Portsmouth,2.0
+239,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+240,Camp Shelby,2026-02-09,Gulfport,1.0
+241,Fort Hood,2026-02-09,Beaumont,1.0
+242,Fort Lewis,2026-02-09,Tacoma,1.0
+243,Camp Atterbury,2026-02-09,Portsmouth,2.0
+244,Fort Bliss,2026-02-09,San Diego,2.0
+245,Camp Pendleton,2026-02-09,San Diego,1.0
+246,Fort Stewart,2026-02-09,Jacksonville,1.0
+247,Fort Bragg,2026-02-09,Portsmouth,1.0
+248,Fort McCoy,2026-02-09,Portsmouth,3.0
+249,Fort Carson,2026-02-09,Beaumont,2.0
+250,Camp Lejune,2026-02-09,Portsmouth,1.0
+251,Fort Campbell,2026-02-09,Portsmouth,2.0
+252,Fort Riley,2026-02-09,Beaumont,2.0
+253,Fort Drum,2026-02-09,Portsmouth,2.0
+254,Fort Dix,2026-02-09,Portsmouth,1.0
+255,Fort Polk,2026-02-09,Beaumont,1.0
+256,Fort Still,2026-02-09,Beaumont,2.0
+257,Fort Irwin,2026-02-09,Port Hueneme,1.0
+258,Fort Knox,2026-02-09,Portsmouth,2.0
+259,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+260,Camp Shelby,2026-02-09,Beaumont,1.0
+261,Fort Hood,2026-02-09,Beaumont,1.0
+262,Fort Lewis,2026-02-09,Tacoma,1.0
+263,Camp Atterbury,2026-02-09,Morehead City,2.0
+264,Fort Bliss,2026-02-09,San Diego,2.0
+265,Camp Pendleton,2026-02-09,San Diego,1.0
+266,Fort Stewart,2026-02-09,Morehead City,1.0
+267,Fort Bragg,2026-02-09,Portsmouth,1.0
+268,Fort McCoy,2026-02-09,Portsmouth,3.0
+269,Fort Carson,2026-02-09,Beaumont,2.0
+270,Camp Lejune,2026-02-09,Morehead City,1.0
+271,Fort Campbell,2026-02-09,Portsmouth,2.0
+272,Fort Riley,2026-02-09,Beaumont,2.0
+273,Fort Drum,2026-02-09,Portsmouth,2.0
+274,Fort Dix,2026-02-09,Portsmouth,1.0
+275,Fort Polk,2026-02-09,Gulfport,1.0
+276,Fort Still,2026-02-09,Beaumont,2.0
+277,Fort Irwin,2026-02-09,San Diego,1.0
+278,Fort Knox,2026-02-09,Portsmouth,2.0
+279,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+280,Camp Shelby,2026-02-09,Gulfport,1.0
+281,Fort Hood,2026-02-09,Beaumont,1.0
+282,Fort Lewis,2026-02-09,Tacoma,1.0
+283,Camp Atterbury,2026-02-09,Portsmouth,2.0
+284,Fort Bliss,2026-02-09,San Diego,2.0
+285,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+286,Fort Stewart,2026-02-09,Jacksonville,1.0
+287,Fort Bragg,2026-02-09,Jacksonville,1.0
+288,Fort McCoy,2026-02-09,Portsmouth,3.0
+289,Fort Carson,2026-02-09,Beaumont,2.0
+290,Camp Lejune,2026-02-09,Morehead City,1.0
+291,Fort Campbell,2026-02-09,Portsmouth,2.0
+292,Fort Riley,2026-02-09,Beaumont,2.0
+293,Fort Drum,2026-02-09,Portsmouth,2.0
+294,Fort Dix,2026-02-09,Portsmouth,1.0
+295,Fort Polk,2026-02-09,Beaumont,1.0
+296,Fort Still,2026-02-09,Beaumont,2.0
+297,Fort Irwin,2026-02-09,Oakland,1.0
+298,Fort Knox,2026-02-09,Portsmouth,2.0
+299,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+300,Camp Shelby,2026-02-09,Gulfport,1.0
+301,Fort Hood,2026-02-09,Beaumont,1.0
+302,Fort Lewis,2026-02-09,Tacoma,1.0
+303,Camp Atterbury,2026-02-09,Portsmouth,2.0
+304,Fort Bliss,2026-02-09,San Diego,2.0
+305,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+306,Fort Stewart,2026-02-09,Jacksonville,1.0
+307,Fort Bragg,2026-02-09,Morehead City,1.0
+308,Fort McCoy,2026-02-09,Portsmouth,3.0
+309,Fort Carson,2026-02-09,Beaumont,2.0
+310,Camp Lejune,2026-02-09,Portsmouth,1.0
+311,Fort Campbell,2026-02-09,Portsmouth,2.0
+312,Fort Riley,2026-02-09,Beaumont,2.0
+313,Fort Drum,2026-02-09,Portsmouth,2.0
+314,Fort Dix,2026-02-09,Portsmouth,1.0
+315,Fort Polk,2026-02-09,Beaumont,1.0
+316,Fort Still,2026-02-09,Beaumont,2.0
+317,Fort Irwin,2026-02-09,Oakland,1.0
+318,Fort Knox,2026-02-09,Portsmouth,2.0
+319,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+320,Camp Shelby,2026-02-09,Gulfport,1.0
+321,Fort Hood,2026-02-09,Beaumont,1.0
+322,Fort Lewis,2026-02-09,Tacoma,1.0
+323,Camp Atterbury,2026-02-09,Portsmouth,2.0
+324,Fort Bliss,2026-02-09,San Diego,2.0
+325,Camp Pendleton,2026-02-09,San Diego,1.0
+326,Fort Stewart,2026-02-09,Charleston,1.0
+327,Fort Bragg,2026-02-09,Morehead City,1.0
+328,Fort McCoy,2026-02-09,Portsmouth,3.0
+329,Fort Carson,2026-02-09,Beaumont,2.0
+330,Camp Lejune,2026-02-09,Charleston,1.0
+331,Fort Campbell,2026-02-09,Portsmouth,2.0
+332,Fort Riley,2026-02-09,Beaumont,2.0
+333,Fort Drum,2026-02-09,Portsmouth,2.0
+334,Fort Dix,2026-02-09,Portsmouth,1.0
+335,Fort Polk,2026-02-09,Beaumont,1.0
+336,Fort Still,2026-02-09,Beaumont,2.0
+337,Fort Irwin,2026-02-09,Port Hueneme,1.0
+338,Fort Knox,2026-02-09,Portsmouth,2.0
+339,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+340,Camp Shelby,2026-02-09,Beaumont,1.0
+341,Fort Hood,2026-02-09,Beaumont,1.0
+342,Fort Lewis,2026-02-09,Tacoma,1.0
+343,Camp Atterbury,2026-02-09,Portsmouth,2.0
+344,Fort Bliss,2026-02-09,San Diego,2.0
+345,Camp Pendleton,2026-02-09,San Diego,1.0
 346,Fort Stewart,2026-02-09,Morehead City,1.0
-347,Fort Bragg,2026-02-03,Jacksonville,1.0
-348,Fort McCoy,2025-12-22,Morehead City,3.0
-349,Fort Carson,2025-12-23,Beaumont,2.0
-350,Camp Lejune,2026-02-02,Morehead City,1.0
-351,Fort Campbell,2026-01-17,Portsmouth,2.0
-352,Fort Riley,2025-12-30,Gulfport,2.0
-353,Fort Drum,2025-12-24,Portsmouth,2.0
-354,Fort Dix,2026-01-07,Portsmouth,1.0
-355,Fort Polk,2026-01-15,Beaumont,1.0
-356,Fort Still,2026-01-17,Beaumont,2.0
-357,Fort Irwin,2025-12-27,San Diego,1.0
-358,Fort Knox,2025-12-31,Jacksonville,2.0
-359,Fort Leonard Wood,2025-12-22,Gulfport,2.0
-360,Camp Shelby,2026-02-04,Beaumont,1.0
-361,Fort Hood,2025-12-24,Beaumont,1.0
-362,Fort Lewis,2026-02-05,Tacoma,1.0
-363,Camp Atterbury,2025-12-24,Portsmouth,2.0
-364,Fort Bliss,2025-12-27,Port Hueneme,2.0
-365,Camp Pendleton,2026-01-03,Port Hueneme,1.0
-366,Fort Stewart,2026-02-04,Charleston,1.0
-367,Fort Bragg,2026-01-19,Charleston,1.0
-368,Fort McCoy,2026-01-19,Portsmouth,3.0
-369,Fort Carson,2025-12-22,Beaumont,2.0
-370,Camp Lejune,2026-01-19,Portsmouth,1.0
-371,Fort Campbell,2026-01-14,Portsmouth,2.0
-372,Fort Riley,2026-02-02,Gulfport,2.0
-373,Fort Drum,2025-12-25,Morehead City,2.0
-374,Fort Dix,2026-02-02,Portsmouth,1.0
-375,Fort Polk,2025-12-25,Beaumont,1.0
-376,Fort Still,2026-01-12,Gulfport,2.0
-377,Fort Irwin,2026-01-16,Port Hueneme,1.0
-378,Fort Knox,2026-01-24,Portsmouth,2.0
-379,Fort Leonard Wood,2025-12-25,Gulfport,2.0
-380,Camp Shelby,2025-12-30,Gulfport,1.0
-381,Fort Hood,2026-01-10,Beaumont,1.0
-382,Fort Lewis,2026-01-14,Tacoma,1.0
-383,Camp Atterbury,2025-12-26,Jacksonville,2.0
-384,Fort Bliss,2025-12-22,Port Hueneme,2.0
-385,Camp Pendleton,2026-01-15,San Diego,1.0
-386,Fort Stewart,2026-02-05,Charleston,1.0
-387,Fort Bragg,2026-01-05,Morehead City,1.0
-388,Fort McCoy,2025-12-22,Portsmouth,3.0
-389,Fort Carson,2025-12-23,Beaumont,2.0
-390,Camp Lejune,2026-01-06,Morehead City,1.0
-391,Fort Campbell,2026-01-19,Morehead City,2.0
-392,Fort Riley,2025-12-24,Gulfport,2.0
-393,Fort Drum,2025-12-22,Portsmouth,2.0
-394,Fort Dix,2025-12-29,Portsmouth,1.0
-395,Fort Polk,2026-01-23,Beaumont,1.0
-396,Fort Still,2026-01-04,Gulfport,2.0
-397,Fort Irwin,2026-01-14,Oakland,1.0
-398,Fort Knox,2026-01-16,Portsmouth,2.0
-399,Fort Leonard Wood,2025-12-25,Gulfport,2.0
-400,Camp Shelby,2026-02-02,Beaumont,1.0
-401,Fort Hood,2026-01-01,Beaumont,1.0
-402,Fort Lewis,2025-12-26,Tacoma,1.0
-403,Camp Atterbury,2026-01-28,Portsmouth,2.0
-404,Fort Bliss,2025-12-29,Port Hueneme,2.0
-405,Camp Pendleton,2026-02-02,Port Hueneme,1.0
-406,Fort Stewart,2026-01-25,Morehead City,1.0
-407,Fort Bragg,2026-02-04,Portsmouth,1.0
-408,Fort McCoy,2025-12-22,Portsmouth,3.0
-409,Fort Carson,2025-12-24,Beaumont,2.0
-410,Camp Lejune,2026-01-27,Charleston,1.0
+347,Fort Bragg,2026-02-09,Portsmouth,1.0
+348,Fort McCoy,2026-02-09,Portsmouth,3.0
+349,Fort Carson,2026-02-09,Beaumont,2.0
+350,Camp Lejune,2026-02-09,Morehead City,1.0
+351,Fort Campbell,2026-02-09,Portsmouth,2.0
+352,Fort Riley,2026-02-09,Beaumont,2.0
+353,Fort Drum,2026-02-09,Portsmouth,2.0
+354,Fort Dix,2026-02-09,Portsmouth,1.0
+355,Fort Polk,2026-02-09,Gulfport,1.0
+356,Fort Still,2026-02-09,Gulfport,2.0
+357,Fort Irwin,2026-02-09,San Diego,1.0
+358,Fort Knox,2026-02-09,Portsmouth,2.0
+359,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+360,Camp Shelby,2026-02-09,Beaumont,1.0
+361,Fort Hood,2026-02-09,Beaumont,1.0
+362,Fort Lewis,2026-02-09,Tacoma,1.0
+363,Camp Atterbury,2026-02-09,Portsmouth,2.0
+364,Fort Bliss,2026-02-09,San Diego,2.0
+365,Camp Pendleton,2026-02-09,San Diego,1.0
+366,Fort Stewart,2026-02-09,Charleston,1.0
+367,Fort Bragg,2026-02-09,Portsmouth,1.0
+368,Fort McCoy,2026-02-09,Portsmouth,3.0
+369,Fort Carson,2026-02-09,Beaumont,2.0
+370,Camp Lejune,2026-02-09,Charleston,1.0
+371,Fort Campbell,2026-02-09,Portsmouth,2.0
+372,Fort Riley,2026-02-09,Beaumont,2.0
+373,Fort Drum,2026-02-09,Portsmouth,2.0
+374,Fort Dix,2026-02-09,Portsmouth,1.0
+375,Fort Polk,2026-02-09,Beaumont,1.0
+376,Fort Still,2026-02-09,Beaumont,2.0
+377,Fort Irwin,2026-02-09,Oakland,1.0
+378,Fort Knox,2026-02-09,Morehead City,2.0
+379,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+380,Camp Shelby,2026-02-09,Beaumont,1.0
+381,Fort Hood,2026-02-09,Beaumont,1.0
+382,Fort Lewis,2026-02-09,Tacoma,1.0
+383,Camp Atterbury,2026-02-09,Portsmouth,2.0
+384,Fort Bliss,2026-02-09,San Diego,2.0
+385,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+386,Fort Stewart,2026-02-09,Morehead City,1.0
+387,Fort Bragg,2026-02-09,Morehead City,1.0
+388,Fort McCoy,2026-02-09,Portsmouth,3.0
+389,Fort Carson,2026-02-09,Beaumont,2.0
+390,Camp Lejune,2026-02-09,Morehead City,1.0
+391,Fort Campbell,2026-02-09,Morehead City,2.0
+392,Fort Riley,2026-02-09,Beaumont,2.0
+393,Fort Drum,2026-02-09,Portsmouth,2.0
+394,Fort Dix,2026-02-09,Portsmouth,1.0
+395,Fort Polk,2026-02-09,Beaumont,1.0
+396,Fort Still,2026-02-09,Beaumont,2.0
+397,Fort Irwin,2026-02-09,Port Hueneme,1.0
+398,Fort Knox,2026-02-09,Morehead City,2.0
+399,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+400,Camp Shelby,2026-02-09,Beaumont,1.0
+401,Fort Hood,2026-02-09,Beaumont,1.0
+402,Fort Lewis,2026-02-09,Tacoma,1.0
+403,Camp Atterbury,2026-02-09,Portsmouth,2.0
+404,Fort Bliss,2026-02-09,San Diego,2.0
+405,Camp Pendleton,2026-02-09,San Diego,1.0
+406,Fort Stewart,2026-02-09,Charleston,1.0
+407,Fort Bragg,2026-02-09,Morehead City,1.0
+408,Fort McCoy,2026-02-09,Portsmouth,3.0
+409,Fort Carson,2026-02-09,Beaumont,2.0
+410,Camp Lejune,2026-02-09,Morehead City,1.0
 411,Fort Campbell,2026-02-09,Portsmouth,2.0
-412,Fort Riley,2025-12-24,Gulfport,2.0
-413,Fort Drum,2025-12-22,Portsmouth,2.0
-414,Fort Dix,2025-12-23,Portsmouth,1.0
-415,Fort Polk,2026-01-20,Beaumont,1.0
-416,Fort Still,2025-12-27,Gulfport,2.0
-417,Fort Irwin,2026-01-09,Oakland,1.0
-418,Fort Knox,2026-01-06,Beaumont,2.0
-419,Fort Leonard Wood,2026-01-20,Gulfport,2.0
-420,Camp Shelby,2026-01-24,Gulfport,1.0
-421,Fort Hood,2026-01-27,Beaumont,1.0
-422,Fort Lewis,2025-12-31,Tacoma,1.0
-423,Camp Atterbury,2026-01-20,Portsmouth,2.0
-424,Fort Bliss,2026-01-12,Port Hueneme,2.0
-425,Camp Pendleton,2026-02-08,San Diego,1.0
-426,Fort Stewart,2026-02-01,Jacksonville,1.0
-427,Fort Bragg,2026-01-11,Portsmouth,1.0
-428,Fort McCoy,2025-12-24,Portsmouth,3.0
-429,Fort Carson,2025-12-30,Beaumont,2.0
-430,Camp Lejune,2025-12-24,Morehead City,1.0
-431,Fort Campbell,2026-02-05,Beaumont,2.0
-432,Fort Riley,2026-02-02,Gulfport,2.0
-433,Fort Drum,2025-12-28,Portsmouth,2.0
-434,Fort Dix,2026-01-27,Portsmouth,1.0
-435,Fort Polk,2025-12-25,Beaumont,1.0
-436,Fort Still,2026-01-20,Beaumont,2.0
-437,Fort Irwin,2026-02-05,Oakland,1.0
-438,Fort Knox,2026-01-21,Charleston,2.0
-439,Fort Leonard Wood,2026-01-23,Gulfport,2.0
-440,Camp Shelby,2026-01-05,Beaumont,1.0
-441,Fort Hood,2026-02-03,Beaumont,1.0
-442,Fort Lewis,2026-01-26,Tacoma,1.0
-443,Camp Atterbury,2026-01-18,Morehead City,2.0
-444,Fort Bliss,2026-01-31,Beaumont,2.0
-445,Camp Pendleton,2026-02-04,Port Hueneme,1.0
-446,Fort Stewart,2026-02-03,Charleston,1.0
-447,Fort Bragg,2025-12-31,Charleston,1.0
-448,Fort McCoy,2026-01-05,Portsmouth,3.0
-449,Fort Carson,2026-01-05,Beaumont,2.0
-450,Camp Lejune,2026-02-06,Portsmouth,1.0
-451,Fort Campbell,2026-01-05,Morehead City,2.0
-452,Fort Riley,2026-01-01,Beaumont,2.0
-453,Fort Drum,2026-01-14,Morehead City,2.0
-454,Fort Dix,2026-02-06,Portsmouth,1.0
-455,Fort Polk,2026-01-09,Gulfport,1.0
-456,Fort Still,2026-01-20,Beaumont,2.0
-457,Fort Irwin,2026-01-26,Oakland,1.0
-458,Fort Knox,2026-01-19,Morehead City,2.0
-459,Fort Leonard Wood,2026-02-08,Gulfport,2.0
-460,Camp Shelby,2025-12-27,Gulfport,1.0
-461,Fort Hood,2026-01-16,Beaumont,1.0
-462,Fort Lewis,2026-01-24,Tacoma,1.0
-463,Camp Atterbury,2026-01-30,Morehead City,2.0
-464,Fort Bliss,2026-01-17,San Diego,2.0
-465,Camp Pendleton,2026-01-22,Port Hueneme,1.0
-466,Fort Stewart,2026-01-06,Morehead City,1.0
-467,Fort Bragg,2025-12-31,Jacksonville,1.0
-468,Fort McCoy,2025-12-30,Portsmouth,3.0
-469,Fort Carson,2025-12-25,Beaumont,2.0
-470,Camp Lejune,2026-01-25,Portsmouth,1.0
-471,Fort Campbell,2025-12-23,Gulfport,2.0
-472,Fort Riley,2026-01-13,Beaumont,2.0
-473,Fort Drum,2026-02-04,Portsmouth,2.0
-474,Fort Dix,2026-01-14,Portsmouth,1.0
-475,Fort Polk,2026-01-29,Beaumont,1.0
-476,Fort Still,2025-12-27,Gulfport,2.0
-477,Fort Irwin,2026-01-30,Oakland,1.0
-478,Fort Knox,2025-12-29,Portsmouth,2.0
-479,Fort Leonard Wood,2025-12-25,Gulfport,2.0
-480,Camp Shelby,2026-02-07,Gulfport,1.0
-481,Fort Hood,2026-02-03,Beaumont,1.0
-482,Fort Lewis,2025-12-22,Tacoma,1.0
-483,Camp Atterbury,2026-01-05,Morehead City,2.0
-484,Fort Bliss,2026-01-16,Port Hueneme,2.0
-485,Camp Pendleton,2026-01-23,Port Hueneme,1.0
-486,Fort Stewart,2026-01-03,Morehead City,1.0
-487,Fort Bragg,2026-01-29,Jacksonville,1.0
-488,Fort McCoy,2025-12-28,Morehead City,3.0
-489,Fort Carson,2025-12-28,Beaumont,2.0
-490,Camp Lejune,2026-01-05,Portsmouth,1.0
-491,Fort Campbell,2026-01-19,Portsmouth,2.0
-492,Fort Riley,2025-12-30,Beaumont,2.0
-493,Fort Drum,2025-12-22,Morehead City,2.0
-494,Fort Dix,2026-02-06,Portsmouth,1.0
-495,Fort Polk,2026-01-09,Beaumont,1.0
-496,Fort Still,2026-01-25,Gulfport,2.0
-497,Fort Irwin,2026-01-04,Oakland,1.0
-498,Fort Knox,2025-12-30,Jacksonville,2.0
-499,Fort Leonard Wood,2026-01-18,Gulfport,2.0
-500,Camp Shelby,2026-01-31,Gulfport,1.0
-501,Fort Hood,2026-01-26,Beaumont,1.0
-502,Fort Lewis,2025-12-23,Tacoma,1.0
-503,Camp Atterbury,2025-12-24,Beaumont,2.0
-504,Fort Bliss,2025-12-27,Port Hueneme,2.0
-505,Camp Pendleton,2026-02-08,Port Hueneme,1.0
-506,Fort Stewart,2026-01-09,Charleston,1.0
-507,Fort Bragg,2026-02-04,Portsmouth,1.0
-508,Fort McCoy,2025-12-22,Portsmouth,3.0
-509,Fort Carson,2025-12-28,Beaumont,2.0
-510,Camp Lejune,2026-01-31,Portsmouth,1.0
-511,Fort Campbell,2026-01-25,Charleston,2.0
-512,Fort Riley,2025-12-26,Gulfport,2.0
-513,Fort Drum,2026-01-25,Charleston,2.0
-514,Fort Dix,2026-02-01,Portsmouth,1.0
-515,Fort Polk,2026-01-12,Gulfport,1.0
-516,Fort Still,2026-01-17,Gulfport,2.0
-517,Fort Irwin,2026-01-21,Oakland,1.0
-518,Fort Knox,2025-12-30,Morehead City,2.0
-519,Fort Leonard Wood,2026-02-01,Beaumont,2.0
-520,Camp Shelby,2026-02-03,Beaumont,1.0
-521,Fort Hood,2025-12-30,Beaumont,1.0
-522,Fort Lewis,2026-01-31,Tacoma,1.0
-523,Camp Atterbury,2026-02-02,Morehead City,2.0
-524,Fort Bliss,2026-01-30,San Diego,2.0
-525,Camp Pendleton,2026-01-06,Port Hueneme,1.0
-526,Fort Stewart,2026-01-13,Charleston,1.0
-527,Fort Bragg,2026-02-02,Jacksonville,1.0
-528,Fort McCoy,2025-12-22,Portsmouth,3.0
-529,Fort Carson,2025-12-27,Beaumont,2.0
-530,Camp Lejune,2025-12-22,Morehead City,1.0
-531,Fort Campbell,2025-12-27,Portsmouth,2.0
-532,Fort Riley,2025-12-25,Gulfport,2.0
-533,Fort Drum,2025-12-27,Morehead City,2.0
-534,Fort Dix,2025-12-29,Portsmouth,1.0
-535,Fort Polk,2026-01-07,Gulfport,1.0
-536,Fort Still,2026-01-08,Beaumont,2.0
-537,Fort Irwin,2026-01-11,San Diego,1.0
-538,Fort Knox,2026-01-08,Portsmouth,2.0
-539,Fort Leonard Wood,2026-01-12,Beaumont,2.0
-540,Camp Shelby,2026-01-09,Gulfport,1.0
-541,Fort Hood,2025-12-25,Beaumont,1.0
-542,Fort Lewis,2026-01-15,Tacoma,1.0
-543,Camp Atterbury,2025-12-26,Portsmouth,2.0
-544,Fort Bliss,2025-12-23,Beaumont,2.0
-545,Camp Pendleton,2025-12-24,Port Hueneme,1.0
-546,Fort Stewart,2026-02-08,Charleston,1.0
-547,Fort Bragg,2026-02-07,Morehead City,1.0
-548,Fort McCoy,2025-12-22,Portsmouth,3.0
-549,Fort Carson,2026-01-04,Beaumont,2.0
-550,Camp Lejune,2026-01-16,Charleston,1.0
-551,Fort Campbell,2025-12-26,Beaumont,2.0
-552,Fort Riley,2025-12-27,Gulfport,2.0
-553,Fort Drum,2025-12-27,Portsmouth,2.0
-554,Fort Dix,2026-01-17,Portsmouth,1.0
-555,Fort Polk,2026-01-22,Gulfport,1.0
-556,Fort Still,2025-12-22,Gulfport,2.0
-557,Fort Irwin,2026-01-25,San Diego,1.0
-558,Fort Knox,2025-12-22,Portsmouth,2.0
-559,Fort Leonard Wood,2025-12-24,Gulfport,2.0
+412,Fort Riley,2026-02-09,Beaumont,2.0
+413,Fort Drum,2026-02-09,Portsmouth,2.0
+414,Fort Dix,2026-02-09,Portsmouth,1.0
+415,Fort Polk,2026-02-09,Gulfport,1.0
+416,Fort Still,2026-02-09,Beaumont,2.0
+417,Fort Irwin,2026-02-09,Port Hueneme,1.0
+418,Fort Knox,2026-02-09,Portsmouth,2.0
+419,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+420,Camp Shelby,2026-02-09,Beaumont,1.0
+421,Fort Hood,2026-02-09,Beaumont,1.0
+422,Fort Lewis,2026-02-09,Tacoma,1.0
+423,Camp Atterbury,2026-02-09,Portsmouth,2.0
+424,Fort Bliss,2026-02-09,San Diego,2.0
+425,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+426,Fort Stewart,2026-02-09,Jacksonville,1.0
+427,Fort Bragg,2026-02-09,Jacksonville,1.0
+428,Fort McCoy,2026-02-09,Portsmouth,3.0
+429,Fort Carson,2026-02-09,Beaumont,2.0
+430,Camp Lejune,2026-02-09,Portsmouth,1.0
+431,Fort Campbell,2026-02-09,Portsmouth,2.0
+432,Fort Riley,2026-02-09,Beaumont,2.0
+433,Fort Drum,2026-02-09,Portsmouth,2.0
+434,Fort Dix,2026-02-09,Portsmouth,1.0
+435,Fort Polk,2026-02-09,Gulfport,1.0
+436,Fort Still,2026-02-09,Beaumont,2.0
+437,Fort Irwin,2026-02-09,San Diego,1.0
+438,Fort Knox,2026-02-09,Portsmouth,2.0
+439,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+440,Camp Shelby,2026-02-09,Gulfport,1.0
+441,Fort Hood,2026-02-09,Beaumont,1.0
+442,Fort Lewis,2026-02-09,Tacoma,1.0
+443,Camp Atterbury,2026-02-09,Portsmouth,2.0
+444,Fort Bliss,2026-02-09,San Diego,2.0
+445,Camp Pendleton,2026-02-09,San Diego,1.0
+446,Fort Stewart,2026-02-09,Jacksonville,1.0
+447,Fort Bragg,2026-02-09,Jacksonville,1.0
+448,Fort McCoy,2026-02-09,Portsmouth,3.0
+449,Fort Carson,2026-02-09,Beaumont,2.0
+450,Camp Lejune,2026-02-09,Portsmouth,1.0
+451,Fort Campbell,2026-02-09,Portsmouth,2.0
+452,Fort Riley,2026-02-09,Beaumont,2.0
+453,Fort Drum,2026-02-09,Portsmouth,2.0
+454,Fort Dix,2026-02-09,Portsmouth,1.0
+455,Fort Polk,2026-02-09,Gulfport,1.0
+456,Fort Still,2026-02-09,Beaumont,2.0
+457,Fort Irwin,2026-02-09,San Diego,1.0
+458,Fort Knox,2026-02-09,Portsmouth,2.0
+459,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+460,Camp Shelby,2026-02-09,Gulfport,1.0
+461,Fort Hood,2026-02-09,Beaumont,1.0
+462,Fort Lewis,2026-02-09,Tacoma,1.0
+463,Camp Atterbury,2026-02-09,Portsmouth,2.0
+464,Fort Bliss,2026-02-09,San Diego,2.0
+465,Camp Pendleton,2026-02-09,San Diego,1.0
+466,Fort Stewart,2026-02-09,Morehead City,1.0
+467,Fort Bragg,2026-02-09,Portsmouth,1.0
+468,Fort McCoy,2026-02-09,Portsmouth,3.0
+469,Fort Carson,2026-02-09,Beaumont,2.0
+470,Camp Lejune,2026-02-09,Portsmouth,1.0
+471,Fort Campbell,2026-02-09,Portsmouth,2.0
+472,Fort Riley,2026-02-09,Beaumont,2.0
+473,Fort Drum,2026-02-09,Portsmouth,2.0
+474,Fort Dix,2026-02-09,Portsmouth,1.0
+475,Fort Polk,2026-02-09,Gulfport,1.0
+476,Fort Still,2026-02-09,Beaumont,2.0
+477,Fort Irwin,2026-02-09,San Diego,1.0
+478,Fort Knox,2026-02-09,Morehead City,2.0
+479,Fort Leonard Wood,2026-02-09,Gulfport,2.0
+480,Camp Shelby,2026-02-09,Beaumont,1.0
+481,Fort Hood,2026-02-09,Beaumont,1.0
+482,Fort Lewis,2026-02-09,Tacoma,1.0
+483,Camp Atterbury,2026-02-09,Portsmouth,2.0
+484,Fort Bliss,2026-02-09,Port Hueneme,2.0
+485,Camp Pendleton,2026-02-09,San Diego,1.0
+486,Fort Stewart,2026-02-09,Morehead City,1.0
+487,Fort Bragg,2026-02-09,Charleston,1.0
+488,Fort McCoy,2026-02-09,Portsmouth,3.0
+489,Fort Carson,2026-02-09,Beaumont,2.0
+490,Camp Lejune,2026-02-09,Morehead City,1.0
+491,Fort Campbell,2026-02-09,Beaumont,2.0
+492,Fort Riley,2026-02-09,Beaumont,2.0
+493,Fort Drum,2026-02-09,Portsmouth,2.0
+494,Fort Dix,2026-02-09,Portsmouth,1.0
+495,Fort Polk,2026-02-09,Beaumont,1.0
+496,Fort Still,2026-02-09,Beaumont,2.0
+497,Fort Irwin,2026-02-09,Oakland,1.0
+498,Fort Knox,2026-02-09,Gulfport,2.0
+499,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+500,Camp Shelby,2026-02-09,Gulfport,1.0
+501,Fort Hood,2026-02-09,Beaumont,1.0
+502,Fort Lewis,2026-02-09,Tacoma,1.0
+503,Camp Atterbury,2026-02-09,Portsmouth,2.0
+504,Fort Bliss,2026-02-09,San Diego,2.0
+505,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+506,Fort Stewart,2026-02-09,Jacksonville,1.0
+507,Fort Bragg,2026-02-09,Portsmouth,1.0
+508,Fort McCoy,2026-02-09,Portsmouth,3.0
+509,Fort Carson,2026-02-09,Beaumont,2.0
+510,Camp Lejune,2026-02-09,Charleston,1.0
+511,Fort Campbell,2026-02-09,Portsmouth,2.0
+512,Fort Riley,2026-02-09,Beaumont,2.0
+513,Fort Drum,2026-02-09,Portsmouth,2.0
+514,Fort Dix,2026-02-09,Portsmouth,1.0
+515,Fort Polk,2026-02-09,Beaumont,1.0
+516,Fort Still,2026-02-09,Beaumont,2.0
+517,Fort Irwin,2026-02-09,Oakland,1.0
+518,Fort Knox,2026-02-09,Portsmouth,2.0
+519,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+520,Camp Shelby,2026-02-09,Beaumont,1.0
+521,Fort Hood,2026-02-09,Beaumont,1.0
+522,Fort Lewis,2026-02-09,Tacoma,1.0
+523,Camp Atterbury,2026-02-09,Portsmouth,2.0
+524,Fort Bliss,2026-02-09,San Diego,2.0
+525,Camp Pendleton,2026-02-09,San Diego,1.0
+526,Fort Stewart,2026-02-09,Morehead City,1.0
+527,Fort Bragg,2026-02-09,Morehead City,1.0
+528,Fort McCoy,2026-02-09,Portsmouth,3.0
+529,Fort Carson,2026-02-09,Beaumont,2.0
+530,Camp Lejune,2026-02-09,Charleston,1.0
+531,Fort Campbell,2026-02-09,Portsmouth,2.0
+532,Fort Riley,2026-02-09,Beaumont,2.0
+533,Fort Drum,2026-02-09,Portsmouth,2.0
+534,Fort Dix,2026-02-09,Portsmouth,1.0
+535,Fort Polk,2026-02-09,Gulfport,1.0
+536,Fort Still,2026-02-09,Beaumont,2.0
+537,Fort Irwin,2026-02-09,Oakland,1.0
+538,Fort Knox,2026-02-09,Portsmouth,2.0
+539,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+540,Camp Shelby,2026-02-09,Beaumont,1.0
+541,Fort Hood,2026-02-09,Beaumont,1.0
+542,Fort Lewis,2026-02-09,Tacoma,1.0
+543,Camp Atterbury,2026-02-09,Portsmouth,2.0
+544,Fort Bliss,2026-02-09,San Diego,2.0
+545,Camp Pendleton,2026-02-09,San Diego,1.0
+546,Fort Stewart,2026-02-09,Morehead City,1.0
+547,Fort Bragg,2026-02-09,Jacksonville,1.0
+548,Fort McCoy,2026-02-09,Portsmouth,3.0
+549,Fort Carson,2026-02-09,Beaumont,2.0
+550,Camp Lejune,2026-02-09,Morehead City,1.0
+551,Fort Campbell,2026-02-09,Portsmouth,2.0
+552,Fort Riley,2026-02-09,Beaumont,2.0
+553,Fort Drum,2026-02-09,Portsmouth,2.0
+554,Fort Dix,2026-02-09,Portsmouth,1.0
+555,Fort Polk,2026-02-09,Beaumont,1.0
+556,Fort Still,2026-02-09,Beaumont,2.0
+557,Fort Irwin,2026-02-09,San Diego,1.0
+558,Fort Knox,2026-02-09,Portsmouth,2.0
+559,Fort Leonard Wood,2026-02-09,Beaumont,2.0
 560,Camp Shelby,2026-02-09,Beaumont,1.0
-561,Fort Hood,2026-02-01,Beaumont,1.0
-562,Fort Lewis,2026-01-27,Tacoma,1.0
-563,Camp Atterbury,2025-12-31,Portsmouth,2.0
-564,Fort Bliss,2025-12-28,Port Hueneme,2.0
-565,Camp Pendleton,2026-02-02,Port Hueneme,1.0
-566,Fort Stewart,2026-01-03,Charleston,1.0
-567,Fort Bragg,2026-01-23,Jacksonville,1.0
-568,Fort McCoy,2026-01-03,Portsmouth,3.0
-569,Fort Carson,2025-12-24,Beaumont,2.0
-570,Camp Lejune,2026-02-01,Morehead City,1.0
-571,Fort Campbell,2025-12-23,Portsmouth,2.0
-572,Fort Riley,2025-12-25,Gulfport,2.0
-573,Fort Drum,2026-01-19,Portsmouth,2.0
-574,Fort Dix,2025-12-25,Portsmouth,1.0
-575,Fort Polk,2026-02-03,Beaumont,1.0
+561,Fort Hood,2026-02-09,Beaumont,1.0
+562,Fort Lewis,2026-02-09,Tacoma,1.0
+563,Camp Atterbury,2026-02-09,Portsmouth,2.0
+564,Fort Bliss,2026-02-09,San Diego,2.0
+565,Camp Pendleton,2026-02-09,San Diego,1.0
+566,Fort Stewart,2026-02-09,Jacksonville,1.0
+567,Fort Bragg,2026-02-09,Jacksonville,1.0
+568,Fort McCoy,2026-02-09,Portsmouth,3.0
+569,Fort Carson,2026-02-09,Beaumont,2.0
+570,Camp Lejune,2026-02-09,Portsmouth,1.0
+571,Fort Campbell,2026-02-09,Portsmouth,2.0
+572,Fort Riley,2026-02-09,Beaumont,2.0
+573,Fort Drum,2026-02-09,Portsmouth,2.0
+574,Fort Dix,2026-02-09,Portsmouth,1.0
+575,Fort Polk,2026-02-09,Gulfport,1.0
 576,Fort Still,2026-02-09,Beaumont,2.0
-577,Fort Irwin,2026-02-06,Port Hueneme,1.0
-578,Fort Knox,2025-12-31,Portsmouth,2.0
-579,Fort Leonard Wood,2025-12-31,Gulfport,2.0
-580,Camp Shelby,2026-02-06,Gulfport,1.0
-581,Fort Hood,2026-01-14,Beaumont,1.0
-582,Fort Lewis,2026-02-06,Tacoma,1.0
-583,Camp Atterbury,2025-12-27,Portsmouth,2.0
-584,Fort Bliss,2026-01-10,Port Hueneme,2.0
-585,Camp Pendleton,2025-12-25,Port Hueneme,1.0
-586,Fort Stewart,2026-01-10,Morehead City,1.0
-587,Fort Bragg,2025-12-25,Portsmouth,1.0
-588,Fort McCoy,2025-12-22,Portsmouth,3.0
-589,Fort Carson,2026-01-04,Beaumont,2.0
-590,Camp Lejune,2026-01-05,Morehead City,1.0
-591,Fort Campbell,2025-12-25,Portsmouth,2.0
-592,Fort Riley,2026-01-12,Gulfport,2.0
-593,Fort Drum,2025-12-27,Portsmouth,2.0
-594,Fort Dix,2026-01-13,Portsmouth,1.0
-595,Fort Polk,2026-01-30,Gulfport,1.0
-596,Fort Still,2025-12-23,Gulfport,2.0
-597,Fort Irwin,2026-01-03,Oakland,1.0
-598,Fort Knox,2026-01-06,Jacksonville,2.0
-599,Fort Leonard Wood,2025-12-31,Gulfport,2.0
-600,Camp Shelby,2026-02-09,Gulfport,1.0
-601,Fort Hood,2025-12-27,Beaumont,1.0
-602,Fort Lewis,2025-12-24,Tacoma,1.0
-603,Camp Atterbury,2025-12-25,Portsmouth,2.0
-604,Fort Bliss,2025-12-23,Beaumont,2.0
-605,Camp Pendleton,2025-12-22,San Diego,1.0
-606,Fort Stewart,2025-12-22,Charleston,1.0
-607,Fort Bragg,2026-01-03,Charleston,1.0
-608,Fort McCoy,2025-12-22,Portsmouth,3.0
-609,Fort Carson,2026-01-03,Beaumont,2.0
-610,Camp Lejune,2026-01-04,Morehead City,1.0
-611,Fort Campbell,2026-01-01,Portsmouth,2.0
-612,Fort Riley,2026-01-19,Beaumont,2.0
-613,Fort Drum,2026-01-02,Portsmouth,2.0
-614,Fort Dix,2025-12-27,Portsmouth,1.0
-615,Fort Polk,2025-12-23,Beaumont,1.0
-616,Fort Still,2026-01-15,Gulfport,2.0
-617,Fort Irwin,2025-12-30,San Diego,1.0
-618,Fort Knox,2025-12-26,Portsmouth,2.0
-619,Fort Leonard Wood,2025-12-24,Gulfport,2.0
-620,Camp Shelby,2026-01-24,Beaumont,1.0
-621,Fort Hood,2026-02-01,Beaumont,1.0
-622,Fort Lewis,2025-12-23,Tacoma,1.0
-623,Camp Atterbury,2025-12-25,Portsmouth,2.0
-624,Fort Bliss,2026-01-12,San Diego,2.0
-625,Camp Pendleton,2026-02-03,San Diego,1.0
-626,Fort Stewart,2026-01-30,Morehead City,1.0
-627,Fort Bragg,2026-02-04,Portsmouth,1.0
-628,Fort McCoy,2025-12-22,Portsmouth,3.0
-629,Fort Carson,2025-12-27,Beaumont,2.0
-630,Camp Lejune,2025-12-25,Morehead City,1.0
-631,Fort Campbell,2025-12-22,Portsmouth,2.0
-632,Fort Riley,2026-01-28,Gulfport,2.0
-633,Fort Drum,2026-01-02,Portsmouth,2.0
-634,Fort Dix,2025-12-27,Portsmouth,1.0
-635,Fort Polk,2026-01-26,Beaumont,1.0
-636,Fort Still,2026-01-28,Gulfport,2.0
-637,Fort Irwin,2026-01-29,Oakland,1.0
-638,Fort Knox,2025-12-29,Portsmouth,2.0
-639,Fort Leonard Wood,2025-12-31,Gulfport,2.0
-640,Camp Shelby,2025-12-22,Beaumont,1.0
-641,Fort Hood,2026-02-01,Beaumont,1.0
+577,Fort Irwin,2026-02-09,Port Hueneme,1.0
+578,Fort Knox,2026-02-09,Portsmouth,2.0
+579,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+580,Camp Shelby,2026-02-09,Beaumont,1.0
+581,Fort Hood,2026-02-09,Beaumont,1.0
+582,Fort Lewis,2026-02-09,Tacoma,1.0
+583,Camp Atterbury,2026-02-09,Portsmouth,2.0
+584,Fort Bliss,2026-02-09,Beaumont,2.0
+585,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+586,Fort Stewart,2026-02-09,Charleston,1.0
+587,Fort Bragg,2026-02-09,Portsmouth,1.0
+588,Fort McCoy,2026-02-09,Portsmouth,3.0
+589,Fort Carson,2026-02-09,Beaumont,2.0
+590,Camp Lejune,2026-02-09,Morehead City,1.0
+591,Fort Campbell,2026-02-09,Morehead City,2.0
+592,Fort Riley,2026-02-09,Beaumont,2.0
+593,Fort Drum,2026-02-09,Portsmouth,2.0
+594,Fort Dix,2026-02-09,Portsmouth,1.0
+595,Fort Polk,2026-02-09,Beaumont,1.0
+596,Fort Still,2026-02-09,Beaumont,2.0
+597,Fort Irwin,2026-02-09,Oakland,1.0
+598,Fort Knox,2026-02-09,Portsmouth,2.0
+599,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+600,Camp Shelby,2026-02-09,Beaumont,1.0
+601,Fort Hood,2026-02-09,Beaumont,1.0
+602,Fort Lewis,2026-02-09,Tacoma,1.0
+603,Camp Atterbury,2026-02-09,Portsmouth,2.0
+604,Fort Bliss,2026-02-09,San Diego,2.0
+605,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+606,Fort Stewart,2026-02-09,Morehead City,1.0
+607,Fort Bragg,2026-02-09,Portsmouth,1.0
+608,Fort McCoy,2026-02-09,Portsmouth,3.0
+609,Fort Carson,2026-02-09,Beaumont,2.0
+610,Camp Lejune,2026-02-09,Morehead City,1.0
+611,Fort Campbell,2026-02-09,Portsmouth,2.0
+612,Fort Riley,2026-02-09,Beaumont,2.0
+613,Fort Drum,2026-02-09,Portsmouth,2.0
+614,Fort Dix,2026-02-09,Portsmouth,1.0
+615,Fort Polk,2026-02-09,Beaumont,1.0
+616,Fort Still,2026-02-09,Beaumont,2.0
+617,Fort Irwin,2026-02-09,Oakland,1.0
+618,Fort Knox,2026-02-09,Portsmouth,2.0
+619,Fort Leonard Wood,2026-02-09,Gulfport,2.0
+620,Camp Shelby,2026-02-09,Gulfport,1.0
+621,Fort Hood,2026-02-09,Beaumont,1.0
+622,Fort Lewis,2026-02-09,Tacoma,1.0
+623,Camp Atterbury,2026-02-09,Portsmouth,2.0
+624,Fort Bliss,2026-02-09,Beaumont,2.0
+625,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+626,Fort Stewart,2026-02-09,Jacksonville,1.0
+627,Fort Bragg,2026-02-09,Portsmouth,1.0
+628,Fort McCoy,2026-02-09,Portsmouth,3.0
+629,Fort Carson,2026-02-09,Beaumont,2.0
+630,Camp Lejune,2026-02-09,Portsmouth,1.0
+631,Fort Campbell,2026-02-09,Morehead City,2.0
+632,Fort Riley,2026-02-09,Beaumont,2.0
+633,Fort Drum,2026-02-09,Portsmouth,2.0
+634,Fort Dix,2026-02-09,Portsmouth,1.0
+635,Fort Polk,2026-02-09,Beaumont,1.0
+636,Fort Still,2026-02-09,Beaumont,2.0
+637,Fort Irwin,2026-02-09,Oakland,1.0
+638,Fort Knox,2026-02-09,Portsmouth,2.0
+639,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+640,Camp Shelby,2026-02-09,Gulfport,1.0
+641,Fort Hood,2026-02-09,Beaumont,1.0
 642,Fort Lewis,2026-02-09,Tacoma,1.0
-643,Camp Atterbury,2026-01-20,Portsmouth,2.0
-644,Fort Bliss,2025-12-25,Port Hueneme,2.0
-645,Camp Pendleton,2026-02-06,San Diego,1.0
-646,Fort Stewart,2026-02-03,Jacksonville,1.0
-647,Fort Bragg,2026-02-09,Jacksonville,1.0
-648,Fort McCoy,2025-12-23,Portsmouth,3.0
-649,Fort Carson,2026-01-18,Beaumont,2.0
-650,Camp Lejune,2025-12-28,Portsmouth,1.0
-651,Fort Campbell,2026-01-27,Portsmouth,2.0
-652,Fort Riley,2026-01-03,Beaumont,2.0
-653,Fort Drum,2026-02-02,Morehead City,2.0
-654,Fort Dix,2026-01-27,Portsmouth,1.0
-655,Fort Polk,2026-01-08,Beaumont,1.0
-656,Fort Still,2026-02-05,Gulfport,2.0
-657,Fort Irwin,2026-01-20,Oakland,1.0
-658,Fort Knox,2026-01-21,Morehead City,2.0
-659,Fort Leonard Wood,2026-01-26,Gulfport,2.0
-660,Camp Shelby,2026-01-18,Gulfport,1.0
-661,Fort Hood,2026-01-12,Beaumont,1.0
-662,Fort Lewis,2026-02-01,Tacoma,1.0
-663,Camp Atterbury,2026-01-07,Morehead City,2.0
-664,Fort Bliss,2026-01-08,Port Hueneme,2.0
-665,Camp Pendleton,2026-01-11,Port Hueneme,1.0
-666,Fort Stewart,2025-12-22,Charleston,1.0
-667,Fort Bragg,2026-01-22,Jacksonville,1.0
-668,Fort McCoy,2025-12-22,Portsmouth,3.0
-669,Fort Carson,2025-12-23,Beaumont,2.0
-670,Camp Lejune,2025-12-31,Portsmouth,1.0
-671,Fort Campbell,2026-01-12,Portsmouth,2.0
-672,Fort Riley,2026-01-10,Gulfport,2.0
-673,Fort Drum,2025-12-23,Portsmouth,2.0
-674,Fort Dix,2026-01-01,Portsmouth,1.0
-675,Fort Polk,2025-12-25,Beaumont,1.0
-676,Fort Still,2026-01-12,Gulfport,2.0
-677,Fort Irwin,2026-02-06,San Diego,1.0
-678,Fort Knox,2026-02-09,Beaumont,2.0
-679,Fort Leonard Wood,2026-01-27,Gulfport,2.0
-680,Camp Shelby,2026-01-25,Beaumont,1.0
-681,Fort Hood,2026-01-14,Beaumont,1.0
-682,Fort Lewis,2026-01-27,Tacoma,1.0
-683,Camp Atterbury,2025-12-25,Jacksonville,2.0
-684,Fort Bliss,2025-12-24,Port Hueneme,2.0
-685,Camp Pendleton,2026-01-13,Port Hueneme,1.0
-686,Fort Stewart,2026-01-30,Morehead City,1.0
-687,Fort Bragg,2026-01-15,Morehead City,1.0
-688,Fort McCoy,2025-12-22,Portsmouth,3.0
-689,Fort Carson,2025-12-26,Beaumont,2.0
-690,Camp Lejune,2026-01-05,Portsmouth,1.0
-691,Fort Campbell,2025-12-27,Portsmouth,2.0
-692,Fort Riley,2025-12-22,Gulfport,2.0
-693,Fort Drum,2026-02-02,Portsmouth,2.0
-694,Fort Dix,2026-01-09,Portsmouth,1.0
-695,Fort Polk,2026-01-19,Beaumont,1.0
-696,Fort Still,2025-12-25,Gulfport,2.0
-697,Fort Irwin,2026-01-24,Oakland,1.0
-698,Fort Knox,2025-12-22,Portsmouth,2.0
-699,Fort Leonard Wood,2026-02-08,Gulfport,2.0
-700,Camp Shelby,2025-12-26,Gulfport,1.0
-701,Fort Hood,2026-02-03,Beaumont,1.0
-702,Fort Lewis,2026-01-08,Tacoma,1.0
-703,Camp Atterbury,2025-12-29,Morehead City,2.0
-704,Fort Bliss,2026-01-10,San Diego,2.0
-705,Camp Pendleton,2025-12-27,Port Hueneme,1.0
-706,Fort Stewart,2026-01-04,Morehead City,1.0
-707,Fort Bragg,2026-01-25,Morehead City,1.0
-708,Fort McCoy,2025-12-24,Portsmouth,3.0
-709,Fort Carson,2025-12-23,Beaumont,2.0
-710,Camp Lejune,2026-02-07,Portsmouth,1.0
-711,Fort Campbell,2026-01-18,Morehead City,2.0
-712,Fort Riley,2026-01-24,Beaumont,2.0
-713,Fort Drum,2025-12-27,Portsmouth,2.0
-714,Fort Dix,2026-01-05,Portsmouth,1.0
-715,Fort Polk,2026-01-26,Beaumont,1.0
-716,Fort Still,2026-01-07,Gulfport,2.0
-717,Fort Irwin,2026-01-31,San Diego,1.0
-718,Fort Knox,2026-02-09,Gulfport,2.0
-719,Fort Leonard Wood,2026-01-06,Gulfport,2.0
-720,Camp Shelby,2026-01-16,Gulfport,1.0
-721,Fort Hood,2026-01-05,Beaumont,1.0
-722,Fort Lewis,2026-02-01,Tacoma,1.0
-723,Camp Atterbury,2025-12-31,Morehead City,2.0
-724,Fort Bliss,2026-01-22,Port Hueneme,2.0
-725,Camp Pendleton,2025-12-26,San Diego,1.0
-726,Fort Stewart,2026-01-22,Charleston,1.0
-727,Fort Bragg,2026-01-04,Jacksonville,1.0
-728,Fort McCoy,2025-12-24,Portsmouth,3.0
-729,Fort Carson,2025-12-30,Beaumont,2.0
-730,Camp Lejune,2025-12-25,Morehead City,1.0
-731,Fort Campbell,2026-02-01,Portsmouth,2.0
-732,Fort Riley,2025-12-29,Gulfport,2.0
-733,Fort Drum,2025-12-25,Portsmouth,2.0
-734,Fort Dix,2026-01-17,Portsmouth,1.0
-735,Fort Polk,2026-01-14,Gulfport,1.0
-736,Fort Still,2025-12-22,Gulfport,2.0
-737,Fort Irwin,2026-01-25,Port Hueneme,1.0
-738,Fort Knox,2025-12-30,Portsmouth,2.0
-739,Fort Leonard Wood,2026-02-01,Beaumont,2.0
-740,Camp Shelby,2026-01-14,Beaumont,1.0
-741,Fort Hood,2026-01-22,Beaumont,1.0
-742,Fort Lewis,2026-01-11,Tacoma,1.0
-743,Camp Atterbury,2025-12-28,Morehead City,2.0
-744,Fort Bliss,2025-12-30,Port Hueneme,2.0
-745,Camp Pendleton,2026-01-27,Port Hueneme,1.0
-746,Fort Stewart,2025-12-24,Charleston,1.0
-747,Fort Bragg,2026-01-29,Charleston,1.0
-748,Fort McCoy,2026-01-01,Jacksonville,3.0
-749,Fort Carson,2026-01-09,Beaumont,2.0
-750,Camp Lejune,2025-12-23,Portsmouth,1.0
-751,Fort Campbell,2025-12-27,Portsmouth,2.0
-752,Fort Riley,2025-12-26,Gulfport,2.0
-753,Fort Drum,2025-12-24,Portsmouth,2.0
-754,Fort Dix,2026-01-06,Portsmouth,1.0
-755,Fort Polk,2026-02-08,Beaumont,1.0
-756,Fort Still,2025-12-23,Gulfport,2.0
-757,Fort Irwin,2026-01-23,San Diego,1.0
-758,Fort Knox,2026-01-01,Portsmouth,2.0
-759,Fort Leonard Wood,2026-02-07,Gulfport,2.0
+643,Camp Atterbury,2026-02-09,Portsmouth,2.0
+644,Fort Bliss,2026-02-09,San Diego,2.0
+645,Camp Pendleton,2026-02-09,San Diego,1.0
+646,Fort Stewart,2026-02-09,Jacksonville,1.0
+647,Fort Bragg,2026-02-09,Morehead City,1.0
+648,Fort McCoy,2026-02-09,Portsmouth,3.0
+649,Fort Carson,2026-02-09,Beaumont,2.0
+650,Camp Lejune,2026-02-09,Morehead City,1.0
+651,Fort Campbell,2026-02-09,Portsmouth,2.0
+652,Fort Riley,2026-02-09,Beaumont,2.0
+653,Fort Drum,2026-02-09,Portsmouth,2.0
+654,Fort Dix,2026-02-09,Portsmouth,1.0
+655,Fort Polk,2026-02-09,Gulfport,1.0
+656,Fort Still,2026-02-09,Beaumont,2.0
+657,Fort Irwin,2026-02-09,Oakland,1.0
+658,Fort Knox,2026-02-09,Portsmouth,2.0
+659,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+660,Camp Shelby,2026-02-09,Gulfport,1.0
+661,Fort Hood,2026-02-09,Beaumont,1.0
+662,Fort Lewis,2026-02-09,Tacoma,1.0
+663,Camp Atterbury,2026-02-09,Portsmouth,2.0
+664,Fort Bliss,2026-02-09,Beaumont,2.0
+665,Camp Pendleton,2026-02-09,San Diego,1.0
+666,Fort Stewart,2026-02-09,Morehead City,1.0
+667,Fort Bragg,2026-02-09,Portsmouth,1.0
+668,Fort McCoy,2026-02-09,Portsmouth,3.0
+669,Fort Carson,2026-02-09,Beaumont,2.0
+670,Camp Lejune,2026-02-09,Morehead City,1.0
+671,Fort Campbell,2026-02-09,Morehead City,2.0
+672,Fort Riley,2026-02-09,Beaumont,2.0
+673,Fort Drum,2026-02-09,Portsmouth,2.0
+674,Fort Dix,2026-02-09,Portsmouth,1.0
+675,Fort Polk,2026-02-09,Gulfport,1.0
+676,Fort Still,2026-02-09,Beaumont,2.0
+677,Fort Irwin,2026-02-09,Port Hueneme,1.0
+678,Fort Knox,2026-02-09,Portsmouth,2.0
+679,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+680,Camp Shelby,2026-02-09,Beaumont,1.0
+681,Fort Hood,2026-02-09,Beaumont,1.0
+682,Fort Lewis,2026-02-09,Tacoma,1.0
+683,Camp Atterbury,2026-02-09,Portsmouth,2.0
+684,Fort Bliss,2026-02-09,San Diego,2.0
+685,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+686,Fort Stewart,2026-02-09,Jacksonville,1.0
+687,Fort Bragg,2026-02-09,Jacksonville,1.0
+688,Fort McCoy,2026-02-09,Portsmouth,3.0
+689,Fort Carson,2026-02-09,Beaumont,2.0
+690,Camp Lejune,2026-02-09,Morehead City,1.0
+691,Fort Campbell,2026-02-09,Portsmouth,2.0
+692,Fort Riley,2026-02-09,Beaumont,2.0
+693,Fort Drum,2026-02-09,Portsmouth,2.0
+694,Fort Dix,2026-02-09,Portsmouth,1.0
+695,Fort Polk,2026-02-09,Gulfport,1.0
+696,Fort Still,2026-02-09,Beaumont,2.0
+697,Fort Irwin,2026-02-09,Oakland,1.0
+698,Fort Knox,2026-02-09,Portsmouth,2.0
+699,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+700,Camp Shelby,2026-02-09,Beaumont,1.0
+701,Fort Hood,2026-02-09,Beaumont,1.0
+702,Fort Lewis,2026-02-09,Tacoma,1.0
+703,Camp Atterbury,2026-02-09,Beaumont,2.0
+704,Fort Bliss,2026-02-09,San Diego,2.0
+705,Camp Pendleton,2026-02-09,San Diego,1.0
+706,Fort Stewart,2026-02-09,Morehead City,1.0
+707,Fort Bragg,2026-02-09,Morehead City,1.0
+708,Fort McCoy,2026-02-09,Portsmouth,3.0
+709,Fort Carson,2026-02-09,Beaumont,2.0
+710,Camp Lejune,2026-02-09,Portsmouth,1.0
+711,Fort Campbell,2026-02-09,Portsmouth,2.0
+712,Fort Riley,2026-02-09,Beaumont,2.0
+713,Fort Drum,2026-02-09,Portsmouth,2.0
+714,Fort Dix,2026-02-09,Portsmouth,1.0
+715,Fort Polk,2026-02-09,Beaumont,1.0
+716,Fort Still,2026-02-09,Beaumont,2.0
+717,Fort Irwin,2026-02-09,Oakland,1.0
+718,Fort Knox,2026-02-09,Portsmouth,2.0
+719,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+720,Camp Shelby,2026-02-09,Beaumont,1.0
+721,Fort Hood,2026-02-09,Beaumont,1.0
+722,Fort Lewis,2026-02-09,Tacoma,1.0
+723,Camp Atterbury,2026-02-09,Portsmouth,2.0
+724,Fort Bliss,2026-02-09,San Diego,2.0
+725,Camp Pendleton,2026-02-09,San Diego,1.0
+726,Fort Stewart,2026-02-09,Charleston,1.0
+727,Fort Bragg,2026-02-09,Portsmouth,1.0
+728,Fort McCoy,2026-02-09,Portsmouth,3.0
+729,Fort Carson,2026-02-09,Beaumont,2.0
+730,Camp Lejune,2026-02-09,Portsmouth,1.0
+731,Fort Campbell,2026-02-09,Portsmouth,2.0
+732,Fort Riley,2026-02-09,Beaumont,2.0
+733,Fort Drum,2026-02-09,Portsmouth,2.0
+734,Fort Dix,2026-02-09,Portsmouth,1.0
+735,Fort Polk,2026-02-09,Beaumont,1.0
+736,Fort Still,2026-02-09,Beaumont,2.0
+737,Fort Irwin,2026-02-09,San Diego,1.0
+738,Fort Knox,2026-02-09,Gulfport,2.0
+739,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+740,Camp Shelby,2026-02-09,Beaumont,1.0
+741,Fort Hood,2026-02-09,Beaumont,1.0
+742,Fort Lewis,2026-02-09,Tacoma,1.0
+743,Camp Atterbury,2026-02-09,Beaumont,2.0
+744,Fort Bliss,2026-02-09,San Diego,2.0
+745,Camp Pendleton,2026-02-09,San Diego,1.0
+746,Fort Stewart,2026-02-09,Morehead City,1.0
+747,Fort Bragg,2026-02-09,Jacksonville,1.0
+748,Fort McCoy,2026-02-09,Portsmouth,3.0
+749,Fort Carson,2026-02-09,Beaumont,2.0
+750,Camp Lejune,2026-02-09,Portsmouth,1.0
+751,Fort Campbell,2026-02-09,Portsmouth,2.0
+752,Fort Riley,2026-02-09,Beaumont,2.0
+753,Fort Drum,2026-02-09,Portsmouth,2.0
+754,Fort Dix,2026-02-09,Portsmouth,1.0
+755,Fort Polk,2026-02-09,Gulfport,1.0
+756,Fort Still,2026-02-09,Beaumont,2.0
+757,Fort Irwin,2026-02-09,Oakland,1.0
+758,Fort Knox,2026-02-09,Morehead City,2.0
+759,Fort Leonard Wood,2026-02-09,Gulfport,2.0
 760,Camp Shelby,2026-02-09,Beaumont,1.0
-761,Fort Hood,2026-01-03,Beaumont,1.0
-762,Fort Lewis,2026-01-26,Tacoma,1.0
-763,Camp Atterbury,2026-01-04,Morehead City,2.0
-764,Fort Bliss,2025-12-26,Beaumont,2.0
-765,Camp Pendleton,2026-02-06,Port Hueneme,1.0
-766,Fort Stewart,2026-01-26,Jacksonville,1.0
-767,Fort Bragg,2026-02-07,Portsmouth,1.0
-768,Fort McCoy,2025-12-22,Portsmouth,3.0
-769,Fort Carson,2025-12-25,Beaumont,2.0
-770,Camp Lejune,2026-01-21,Morehead City,1.0
-771,Fort Campbell,2025-12-23,Portsmouth,2.0
-772,Fort Riley,2026-01-23,Gulfport,2.0
-773,Fort Drum,2026-01-22,Portsmouth,2.0
-774,Fort Dix,2026-01-15,Portsmouth,1.0
-775,Fort Polk,2026-01-08,Beaumont,1.0
-776,Fort Still,2025-12-31,Gulfport,2.0
-777,Fort Irwin,2026-02-05,Oakland,1.0
-778,Fort Knox,2025-12-29,Portsmouth,2.0
-779,Fort Leonard Wood,2025-12-23,Beaumont,2.0
-780,Camp Shelby,2026-01-21,Gulfport,1.0
-781,Fort Hood,2026-01-09,Beaumont,1.0
-782,Fort Lewis,2026-01-24,Tacoma,1.0
-783,Camp Atterbury,2025-12-25,Gulfport,2.0
-784,Fort Bliss,2025-12-26,Port Hueneme,2.0
-785,Camp Pendleton,2026-01-28,San Diego,1.0
-786,Fort Stewart,2025-12-22,Morehead City,1.0
-787,Fort Bragg,2025-12-22,Portsmouth,1.0
-788,Fort McCoy,2025-12-23,Portsmouth,3.0
-789,Fort Carson,2025-12-23,Beaumont,2.0
-790,Camp Lejune,2026-01-21,Portsmouth,1.0
-791,Fort Campbell,2025-12-26,Portsmouth,2.0
-792,Fort Riley,2026-02-08,Gulfport,2.0
-793,Fort Drum,2026-01-06,Portsmouth,2.0
-794,Fort Dix,2025-12-22,Portsmouth,1.0
-795,Fort Polk,2026-02-02,Beaumont,1.0
-796,Fort Still,2026-01-14,Beaumont,2.0
-797,Fort Irwin,2026-01-20,Port Hueneme,1.0
-798,Fort Knox,2026-01-08,Portsmouth,2.0
-799,Fort Leonard Wood,2026-01-03,Gulfport,2.0
-800,Camp Shelby,2026-01-18,Gulfport,1.0
-801,Fort Hood,2026-02-01,Beaumont,1.0
-802,Fort Lewis,2026-02-06,Tacoma,1.0
-803,Camp Atterbury,2026-01-28,Portsmouth,2.0
-804,Fort Bliss,2025-12-24,Port Hueneme,2.0
-805,Camp Pendleton,2025-12-25,San Diego,1.0
-806,Fort Stewart,2026-01-15,Morehead City,1.0
-807,Fort Bragg,2026-01-27,Morehead City,1.0
-808,Fort McCoy,2025-12-27,Portsmouth,3.0
-809,Fort Carson,2025-12-25,Beaumont,2.0
-810,Camp Lejune,2025-12-23,Charleston,1.0
-811,Fort Campbell,2025-12-30,Portsmouth,2.0
-812,Fort Riley,2026-01-11,Beaumont,2.0
-813,Fort Drum,2025-12-22,Portsmouth,2.0
-814,Fort Dix,2026-01-10,Portsmouth,1.0
-815,Fort Polk,2026-01-12,Beaumont,1.0
-816,Fort Still,2026-01-14,Beaumont,2.0
-817,Fort Irwin,2025-12-29,San Diego,1.0
-818,Fort Knox,2026-01-02,Portsmouth,2.0
-819,Fort Leonard Wood,2025-12-23,Gulfport,2.0
-820,Camp Shelby,2026-01-20,Beaumont,1.0
-821,Fort Hood,2026-01-17,Beaumont,1.0
-822,Fort Lewis,2026-01-30,Tacoma,1.0
-823,Camp Atterbury,2026-01-12,Morehead City,2.0
-824,Fort Bliss,2025-12-23,Beaumont,2.0
-825,Camp Pendleton,2025-12-27,Port Hueneme,1.0
-826,Fort Stewart,2026-01-03,Charleston,1.0
-827,Fort Bragg,2026-01-04,Morehead City,1.0
-828,Fort McCoy,2025-12-23,Portsmouth,3.0
-829,Fort Carson,2026-01-30,Beaumont,2.0
-830,Camp Lejune,2025-12-26,Portsmouth,1.0
-831,Fort Campbell,2026-02-01,Morehead City,2.0
-832,Fort Riley,2025-12-23,Gulfport,2.0
-833,Fort Drum,2025-12-23,Portsmouth,2.0
-834,Fort Dix,2025-12-24,Portsmouth,1.0
-835,Fort Polk,2025-12-31,Gulfport,1.0
-836,Fort Still,2026-01-06,Beaumont,2.0
-837,Fort Irwin,2025-12-23,Oakland,1.0
-838,Fort Knox,2025-12-26,Beaumont,2.0
-839,Fort Leonard Wood,2026-01-27,Gulfport,2.0
-840,Camp Shelby,2026-01-27,Gulfport,1.0
-841,Fort Hood,2026-01-30,Beaumont,1.0
-842,Fort Lewis,2026-01-04,Tacoma,1.0
-843,Camp Atterbury,2025-12-23,Portsmouth,2.0
-844,Fort Bliss,2025-12-28,Port Hueneme,2.0
-845,Camp Pendleton,2025-12-22,Port Hueneme,1.0
-846,Fort Stewart,2026-01-07,Jacksonville,1.0
-847,Fort Bragg,2025-12-25,Portsmouth,1.0
-848,Fort McCoy,2025-12-22,Portsmouth,3.0
-849,Fort Carson,2026-01-17,Beaumont,2.0
-850,Camp Lejune,2025-12-28,Portsmouth,1.0
-851,Fort Campbell,2026-01-13,Charleston,2.0
-852,Fort Riley,2026-01-04,Gulfport,2.0
-853,Fort Drum,2026-01-18,Portsmouth,2.0
-854,Fort Dix,2026-01-01,Portsmouth,1.0
-855,Fort Polk,2026-01-07,Gulfport,1.0
-856,Fort Still,2025-12-22,Gulfport,2.0
-857,Fort Irwin,2025-12-29,Port Hueneme,1.0
-858,Fort Knox,2025-12-22,Portsmouth,2.0
-859,Fort Leonard Wood,2026-01-14,Gulfport,2.0
-860,Camp Shelby,2026-02-07,Beaumont,1.0
-861,Fort Hood,2026-01-12,Beaumont,1.0
-862,Fort Lewis,2025-12-23,Tacoma,1.0
-863,Camp Atterbury,2025-12-23,Morehead City,2.0
-864,Fort Bliss,2025-12-22,Port Hueneme,2.0
-865,Camp Pendleton,2026-01-10,San Diego,1.0
-866,Fort Stewart,2026-01-12,Charleston,1.0
-867,Fort Bragg,2025-12-29,Charleston,1.0
-868,Fort McCoy,2025-12-26,Portsmouth,3.0
-869,Fort Carson,2025-12-22,Beaumont,2.0
-870,Camp Lejune,2026-01-10,Portsmouth,1.0
-871,Fort Campbell,2025-12-23,Portsmouth,2.0
-872,Fort Riley,2026-01-30,Gulfport,2.0
-873,Fort Drum,2026-02-07,Morehead City,2.0
-874,Fort Dix,2026-01-14,Portsmouth,1.0
-875,Fort Polk,2026-01-05,Gulfport,1.0
-876,Fort Still,2026-01-24,Beaumont,2.0
-877,Fort Irwin,2025-12-26,Port Hueneme,1.0
-878,Fort Knox,2025-12-24,Portsmouth,2.0
-879,Fort Leonard Wood,2026-01-14,Gulfport,2.0
-880,Camp Shelby,2025-12-22,Beaumont,1.0
-881,Fort Hood,2026-01-12,Beaumont,1.0
-882,Fort Lewis,2025-12-29,Tacoma,1.0
-883,Camp Atterbury,2025-12-23,Jacksonville,2.0
-884,Fort Bliss,2025-12-29,Port Hueneme,2.0
-885,Camp Pendleton,2026-02-08,San Diego,1.0
-886,Fort Stewart,2026-01-28,Charleston,1.0
-887,Fort Bragg,2026-01-15,Jacksonville,1.0
-888,Fort McCoy,2025-12-24,Morehead City,3.0
-889,Fort Carson,2026-01-15,Beaumont,2.0
-890,Camp Lejune,2025-12-24,Portsmouth,1.0
-891,Fort Campbell,2025-12-25,Portsmouth,2.0
-892,Fort Riley,2025-12-24,Gulfport,2.0
-893,Fort Drum,2025-12-30,Portsmouth,2.0
-894,Fort Dix,2026-01-15,Portsmouth,1.0
-895,Fort Polk,2026-01-04,Beaumont,1.0
-896,Fort Still,2026-01-26,Gulfport,2.0
-897,Fort Irwin,2026-01-26,San Diego,1.0
-898,Fort Knox,2026-01-10,Portsmouth,2.0
-899,Fort Leonard Wood,2025-12-26,Gulfport,2.0
-900,Camp Shelby,2025-12-25,Beaumont,1.0
-901,Fort Hood,2026-01-05,Beaumont,1.0
-902,Fort Lewis,2025-12-29,Tacoma,1.0
-903,Camp Atterbury,2026-02-04,Portsmouth,2.0
-904,Fort Bliss,2025-12-27,Port Hueneme,2.0
-905,Camp Pendleton,2026-01-11,San Diego,1.0
-906,Fort Stewart,2026-01-19,Morehead City,1.0
-907,Fort Bragg,2026-01-18,Jacksonville,1.0
-908,Fort McCoy,2025-12-28,Portsmouth,3.0
-909,Fort Carson,2025-12-28,Beaumont,2.0
-910,Camp Lejune,2026-01-10,Portsmouth,1.0
-911,Fort Campbell,2025-12-24,Portsmouth,2.0
-912,Fort Riley,2025-12-25,Gulfport,2.0
-913,Fort Drum,2026-01-16,Portsmouth,2.0
-914,Fort Dix,2026-01-17,Portsmouth,1.0
-915,Fort Polk,2025-12-25,Beaumont,1.0
-916,Fort Still,2025-12-30,Gulfport,2.0
-917,Fort Irwin,2026-01-15,San Diego,1.0
-918,Fort Knox,2026-01-03,Morehead City,2.0
-919,Fort Leonard Wood,2025-12-29,Gulfport,2.0
-920,Camp Shelby,2026-01-11,Gulfport,1.0
-921,Fort Hood,2026-01-30,Beaumont,1.0
-922,Fort Lewis,2026-02-05,Tacoma,1.0
-923,Camp Atterbury,2026-01-04,Jacksonville,2.0
-924,Fort Bliss,2026-01-20,San Diego,2.0
-925,Camp Pendleton,2026-01-31,Port Hueneme,1.0
-926,Fort Stewart,2026-01-24,Jacksonville,1.0
-927,Fort Bragg,2026-01-13,Charleston,1.0
-928,Fort McCoy,2025-12-22,Portsmouth,3.0
-929,Fort Carson,2026-01-19,Beaumont,2.0
-930,Camp Lejune,2026-01-05,Charleston,1.0
-931,Fort Campbell,2025-12-27,Morehead City,2.0
-932,Fort Riley,2026-01-13,Beaumont,2.0
-933,Fort Drum,2025-12-27,Portsmouth,2.0
-934,Fort Dix,2026-01-19,Portsmouth,1.0
-935,Fort Polk,2026-01-09,Beaumont,1.0
-936,Fort Still,2026-01-08,Beaumont,2.0
-937,Fort Irwin,2026-01-16,Port Hueneme,1.0
-938,Fort Knox,2026-01-16,Jacksonville,2.0
-939,Fort Leonard Wood,2026-01-18,Beaumont,2.0
-940,Camp Shelby,2026-01-21,Gulfport,1.0
-941,Fort Hood,2026-01-28,Beaumont,1.0
-942,Fort Lewis,2026-02-04,Tacoma,1.0
-943,Camp Atterbury,2026-01-07,Portsmouth,2.0
-944,Fort Bliss,2026-02-07,San Diego,2.0
-945,Camp Pendleton,2026-01-16,Port Hueneme,1.0
-946,Fort Stewart,2026-01-12,Charleston,1.0
-947,Fort Bragg,2026-01-16,Jacksonville,1.0
-948,Fort McCoy,2025-12-28,Portsmouth,3.0
-949,Fort Carson,2025-12-27,Beaumont,2.0
-950,Camp Lejune,2026-01-03,Morehead City,1.0
-951,Fort Campbell,2025-12-25,Morehead City,2.0
-952,Fort Riley,2026-01-05,Beaumont,2.0
-953,Fort Drum,2026-01-03,Morehead City,2.0
-954,Fort Dix,2026-01-16,Portsmouth,1.0
-955,Fort Polk,2026-01-27,Gulfport,1.0
-956,Fort Still,2026-01-03,Gulfport,2.0
-957,Fort Irwin,2026-02-07,Oakland,1.0
-958,Fort Knox,2026-01-30,Beaumont,2.0
-959,Fort Leonard Wood,2026-01-16,Beaumont,2.0
-960,Camp Shelby,2026-01-12,Gulfport,1.0
-961,Fort Hood,2025-12-23,Beaumont,1.0
-962,Fort Lewis,2026-01-20,Tacoma,1.0
-963,Camp Atterbury,2026-02-04,Portsmouth,2.0
-964,Fort Bliss,2026-01-05,Port Hueneme,2.0
-965,Camp Pendleton,2026-01-28,Port Hueneme,1.0
-966,Fort Stewart,2026-01-05,Morehead City,1.0
-967,Fort Bragg,2026-01-06,Morehead City,1.0
-968,Fort McCoy,2025-12-31,Morehead City,3.0
-969,Fort Carson,2026-01-18,Beaumont,2.0
-970,Camp Lejune,2025-12-30,Morehead City,1.0
-971,Fort Campbell,2026-02-01,Portsmouth,2.0
-972,Fort Riley,2026-01-14,Beaumont,2.0
-973,Fort Drum,2025-12-31,Portsmouth,2.0
-974,Fort Dix,2026-02-05,Portsmouth,1.0
-975,Fort Polk,2025-12-29,Beaumont,1.0
-976,Fort Still,2026-01-05,Gulfport,2.0
-977,Fort Irwin,2026-01-12,San Diego,1.0
-978,Fort Knox,2025-12-26,Portsmouth,2.0
-979,Fort Leonard Wood,2026-01-11,Gulfport,2.0
-980,Camp Shelby,2026-02-03,Beaumont,1.0
-981,Fort Hood,2026-01-10,Beaumont,1.0
-982,Fort Lewis,2025-12-29,Tacoma,1.0
-983,Camp Atterbury,2026-01-01,Portsmouth,2.0
-984,Fort Bliss,2025-12-24,Beaumont,2.0
-985,Camp Pendleton,2025-12-28,Port Hueneme,1.0
-986,Fort Stewart,2026-01-07,Morehead City,1.0
-987,Fort Bragg,2025-12-25,Charleston,1.0
-988,Fort McCoy,2025-12-22,Portsmouth,3.0
-989,Fort Carson,2026-01-24,Beaumont,2.0
-990,Camp Lejune,2026-01-09,Portsmouth,1.0
-991,Fort Campbell,2026-01-12,Gulfport,2.0
-992,Fort Riley,2025-12-27,Gulfport,2.0
-993,Fort Drum,2026-01-25,Morehead City,2.0
-994,Fort Dix,2026-01-20,Portsmouth,1.0
-995,Fort Polk,2025-12-25,Gulfport,1.0
-996,Fort Still,2026-02-04,Beaumont,2.0
-997,Fort Irwin,2025-12-26,San Diego,1.0
-998,Fort Knox,2026-01-26,Portsmouth,2.0
-999,Fort Leonard Wood,2025-12-24,Gulfport,2.0
-1000,Camp Shelby,2026-01-21,Gulfport,1.0
+761,Fort Hood,2026-02-09,Beaumont,1.0
+762,Fort Lewis,2026-02-09,Tacoma,1.0
+763,Camp Atterbury,2026-02-09,Morehead City,2.0
+764,Fort Bliss,2026-02-09,San Diego,2.0
+765,Camp Pendleton,2026-02-09,San Diego,1.0
+766,Fort Stewart,2026-02-09,Morehead City,1.0
+767,Fort Bragg,2026-02-09,Portsmouth,1.0
+768,Fort McCoy,2026-02-09,Portsmouth,3.0
+769,Fort Carson,2026-02-09,Beaumont,2.0
+770,Camp Lejune,2026-02-09,Portsmouth,1.0
+771,Fort Campbell,2026-02-09,Portsmouth,2.0
+772,Fort Riley,2026-02-09,Beaumont,2.0
+773,Fort Drum,2026-02-09,Portsmouth,2.0
+774,Fort Dix,2026-02-09,Portsmouth,1.0
+775,Fort Polk,2026-02-09,Beaumont,1.0
+776,Fort Still,2026-02-09,Beaumont,2.0
+777,Fort Irwin,2026-02-09,San Diego,1.0
+778,Fort Knox,2026-02-09,Portsmouth,2.0
+779,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+780,Camp Shelby,2026-02-09,Beaumont,1.0
+781,Fort Hood,2026-02-09,Beaumont,1.0
+782,Fort Lewis,2026-02-09,Tacoma,1.0
+783,Camp Atterbury,2026-02-09,Portsmouth,2.0
+784,Fort Bliss,2026-02-09,Beaumont,2.0
+785,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+786,Fort Stewart,2026-02-09,Charleston,1.0
+787,Fort Bragg,2026-02-09,Portsmouth,1.0
+788,Fort McCoy,2026-02-09,Portsmouth,3.0
+789,Fort Carson,2026-02-09,Beaumont,2.0
+790,Camp Lejune,2026-02-09,Portsmouth,1.0
+791,Fort Campbell,2026-02-09,Morehead City,2.0
+792,Fort Riley,2026-02-09,Beaumont,2.0
+793,Fort Drum,2026-02-09,Portsmouth,2.0
+794,Fort Dix,2026-02-09,Portsmouth,1.0
+795,Fort Polk,2026-02-09,Gulfport,1.0
+796,Fort Still,2026-02-09,Beaumont,2.0
+797,Fort Irwin,2026-02-09,Port Hueneme,1.0
+798,Fort Knox,2026-02-09,Morehead City,2.0
+799,Fort Leonard Wood,2026-02-09,Gulfport,2.0
+800,Camp Shelby,2026-02-09,Beaumont,1.0
+801,Fort Hood,2026-02-09,Beaumont,1.0
+802,Fort Lewis,2026-02-09,Tacoma,1.0
+803,Camp Atterbury,2026-02-09,Portsmouth,2.0
+804,Fort Bliss,2026-02-09,San Diego,2.0
+805,Camp Pendleton,2026-02-09,San Diego,1.0
+806,Fort Stewart,2026-02-09,Morehead City,1.0
+807,Fort Bragg,2026-02-09,Morehead City,1.0
+808,Fort McCoy,2026-02-09,Portsmouth,3.0
+809,Fort Carson,2026-02-09,Beaumont,2.0
+810,Camp Lejune,2026-02-09,Portsmouth,1.0
+811,Fort Campbell,2026-02-09,Portsmouth,2.0
+812,Fort Riley,2026-02-09,Beaumont,2.0
+813,Fort Drum,2026-02-09,Portsmouth,2.0
+814,Fort Dix,2026-02-09,Portsmouth,1.0
+815,Fort Polk,2026-02-09,Beaumont,1.0
+816,Fort Still,2026-02-09,Beaumont,2.0
+817,Fort Irwin,2026-02-09,Port Hueneme,1.0
+818,Fort Knox,2026-02-09,Portsmouth,2.0
+819,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+820,Camp Shelby,2026-02-09,Beaumont,1.0
+821,Fort Hood,2026-02-09,Beaumont,1.0
+822,Fort Lewis,2026-02-09,Tacoma,1.0
+823,Camp Atterbury,2026-02-09,Portsmouth,2.0
+824,Fort Bliss,2026-02-09,Beaumont,2.0
+825,Camp Pendleton,2026-02-09,San Diego,1.0
+826,Fort Stewart,2026-02-09,Jacksonville,1.0
+827,Fort Bragg,2026-02-09,Portsmouth,1.0
+828,Fort McCoy,2026-02-09,Portsmouth,3.0
+829,Fort Carson,2026-02-09,Beaumont,2.0
+830,Camp Lejune,2026-02-09,Morehead City,1.0
+831,Fort Campbell,2026-02-09,Beaumont,2.0
+832,Fort Riley,2026-02-09,Beaumont,2.0
+833,Fort Drum,2026-02-09,Portsmouth,2.0
+834,Fort Dix,2026-02-09,Portsmouth,1.0
+835,Fort Polk,2026-02-09,Beaumont,1.0
+836,Fort Still,2026-02-09,Gulfport,2.0
+837,Fort Irwin,2026-02-09,Oakland,1.0
+838,Fort Knox,2026-02-09,Portsmouth,2.0
+839,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+840,Camp Shelby,2026-02-09,Beaumont,1.0
+841,Fort Hood,2026-02-09,Beaumont,1.0
+842,Fort Lewis,2026-02-09,Tacoma,1.0
+843,Camp Atterbury,2026-02-09,Jacksonville,2.0
+844,Fort Bliss,2026-02-09,San Diego,2.0
+845,Camp Pendleton,2026-02-09,San Diego,1.0
+846,Fort Stewart,2026-02-09,Charleston,1.0
+847,Fort Bragg,2026-02-09,Morehead City,1.0
+848,Fort McCoy,2026-02-09,Portsmouth,3.0
+849,Fort Carson,2026-02-09,Beaumont,2.0
+850,Camp Lejune,2026-02-09,Charleston,1.0
+851,Fort Campbell,2026-02-09,Portsmouth,2.0
+852,Fort Riley,2026-02-09,Beaumont,2.0
+853,Fort Drum,2026-02-09,Portsmouth,2.0
+854,Fort Dix,2026-02-09,Portsmouth,1.0
+855,Fort Polk,2026-02-09,Beaumont,1.0
+856,Fort Still,2026-02-09,Beaumont,2.0
+857,Fort Irwin,2026-02-09,Oakland,1.0
+858,Fort Knox,2026-02-09,Portsmouth,2.0
+859,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+860,Camp Shelby,2026-02-09,Beaumont,1.0
+861,Fort Hood,2026-02-09,Beaumont,1.0
+862,Fort Lewis,2026-02-09,Tacoma,1.0
+863,Camp Atterbury,2026-02-09,Beaumont,2.0
+864,Fort Bliss,2026-02-09,San Diego,2.0
+865,Camp Pendleton,2026-02-09,San Diego,1.0
+866,Fort Stewart,2026-02-09,Morehead City,1.0
+867,Fort Bragg,2026-02-09,Jacksonville,1.0
+868,Fort McCoy,2026-02-09,Portsmouth,3.0
+869,Fort Carson,2026-02-09,Beaumont,2.0
+870,Camp Lejune,2026-02-09,Portsmouth,1.0
+871,Fort Campbell,2026-02-09,Portsmouth,2.0
+872,Fort Riley,2026-02-09,Beaumont,2.0
+873,Fort Drum,2026-02-09,Charleston,2.0
+874,Fort Dix,2026-02-09,Portsmouth,1.0
+875,Fort Polk,2026-02-09,Gulfport,1.0
+876,Fort Still,2026-02-09,Beaumont,2.0
+877,Fort Irwin,2026-02-09,Oakland,1.0
+878,Fort Knox,2026-02-09,Portsmouth,2.0
+879,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+880,Camp Shelby,2026-02-09,Gulfport,1.0
+881,Fort Hood,2026-02-09,Beaumont,1.0
+882,Fort Lewis,2026-02-09,Tacoma,1.0
+883,Camp Atterbury,2026-02-09,Portsmouth,2.0
+884,Fort Bliss,2026-02-09,San Diego,2.0
+885,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+886,Fort Stewart,2026-02-09,Morehead City,1.0
+887,Fort Bragg,2026-02-09,Jacksonville,1.0
+888,Fort McCoy,2026-02-09,Portsmouth,3.0
+889,Fort Carson,2026-02-09,Beaumont,2.0
+890,Camp Lejune,2026-02-09,Morehead City,1.0
+891,Fort Campbell,2026-02-09,Portsmouth,2.0
+892,Fort Riley,2026-02-09,Beaumont,2.0
+893,Fort Drum,2026-02-09,Portsmouth,2.0
+894,Fort Dix,2026-02-09,Portsmouth,1.0
+895,Fort Polk,2026-02-09,Beaumont,1.0
+896,Fort Still,2026-02-09,Beaumont,2.0
+897,Fort Irwin,2026-02-09,Port Hueneme,1.0
+898,Fort Knox,2026-02-09,Jacksonville,2.0
+899,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+900,Camp Shelby,2026-02-09,Beaumont,1.0
+901,Fort Hood,2026-02-09,Beaumont,1.0
+902,Fort Lewis,2026-02-09,Tacoma,1.0
+903,Camp Atterbury,2026-02-09,Beaumont,2.0
+904,Fort Bliss,2026-02-09,San Diego,2.0
+905,Camp Pendleton,2026-02-09,San Diego,1.0
+906,Fort Stewart,2026-02-09,Morehead City,1.0
+907,Fort Bragg,2026-02-09,Morehead City,1.0
+908,Fort McCoy,2026-02-09,Portsmouth,3.0
+909,Fort Carson,2026-02-09,Beaumont,2.0
+910,Camp Lejune,2026-02-09,Charleston,1.0
+911,Fort Campbell,2026-02-09,Beaumont,2.0
+912,Fort Riley,2026-02-09,Beaumont,2.0
+913,Fort Drum,2026-02-09,Portsmouth,2.0
+914,Fort Dix,2026-02-09,Portsmouth,1.0
+915,Fort Polk,2026-02-09,Gulfport,1.0
+916,Fort Still,2026-02-09,Beaumont,2.0
+917,Fort Irwin,2026-02-09,Port Hueneme,1.0
+918,Fort Knox,2026-02-09,Portsmouth,2.0
+919,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+920,Camp Shelby,2026-02-09,Beaumont,1.0
+921,Fort Hood,2026-02-09,Beaumont,1.0
+922,Fort Lewis,2026-02-09,Tacoma,1.0
+923,Camp Atterbury,2026-02-09,Portsmouth,2.0
+924,Fort Bliss,2026-02-09,San Diego,2.0
+925,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+926,Fort Stewart,2026-02-09,Morehead City,1.0
+927,Fort Bragg,2026-02-09,Portsmouth,1.0
+928,Fort McCoy,2026-02-09,Portsmouth,3.0
+929,Fort Carson,2026-02-09,Beaumont,2.0
+930,Camp Lejune,2026-02-09,Morehead City,1.0
+931,Fort Campbell,2026-02-09,Portsmouth,2.0
+932,Fort Riley,2026-02-09,Beaumont,2.0
+933,Fort Drum,2026-02-09,Portsmouth,2.0
+934,Fort Dix,2026-02-09,Portsmouth,1.0
+935,Fort Polk,2026-02-09,Beaumont,1.0
+936,Fort Still,2026-02-09,Beaumont,2.0
+937,Fort Irwin,2026-02-09,San Diego,1.0
+938,Fort Knox,2026-02-09,Jacksonville,2.0
+939,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+940,Camp Shelby,2026-02-09,Beaumont,1.0
+941,Fort Hood,2026-02-09,Beaumont,1.0
+942,Fort Lewis,2026-02-09,Tacoma,1.0
+943,Camp Atterbury,2026-02-09,Beaumont,2.0
+944,Fort Bliss,2026-02-09,San Diego,2.0
+945,Camp Pendleton,2026-02-09,San Diego,1.0
+946,Fort Stewart,2026-02-09,Morehead City,1.0
+947,Fort Bragg,2026-02-09,Morehead City,1.0
+948,Fort McCoy,2026-02-09,Portsmouth,3.0
+949,Fort Carson,2026-02-09,Beaumont,2.0
+950,Camp Lejune,2026-02-09,Morehead City,1.0
+951,Fort Campbell,2026-02-09,Morehead City,2.0
+952,Fort Riley,2026-02-09,Beaumont,2.0
+953,Fort Drum,2026-02-09,Morehead City,2.0
+954,Fort Dix,2026-02-09,Portsmouth,1.0
+955,Fort Polk,2026-02-09,Gulfport,1.0
+956,Fort Still,2026-02-09,Beaumont,2.0
+957,Fort Irwin,2026-02-09,Oakland,1.0
+958,Fort Knox,2026-02-09,Morehead City,2.0
+959,Fort Leonard Wood,2026-02-09,Gulfport,2.0
+960,Camp Shelby,2026-02-09,Beaumont,1.0
+961,Fort Hood,2026-02-09,Beaumont,1.0
+962,Fort Lewis,2026-02-09,Tacoma,1.0
+963,Camp Atterbury,2026-02-09,Portsmouth,2.0
+964,Fort Bliss,2026-02-09,San Diego,2.0
+965,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+966,Fort Stewart,2026-02-09,Morehead City,1.0
+967,Fort Bragg,2026-02-09,Charleston,1.0
+968,Fort McCoy,2026-02-09,Portsmouth,3.0
+969,Fort Carson,2026-02-09,Beaumont,2.0
+970,Camp Lejune,2026-02-09,Morehead City,1.0
+971,Fort Campbell,2026-02-09,Morehead City,2.0
+972,Fort Riley,2026-02-09,Beaumont,2.0
+973,Fort Drum,2026-02-09,Portsmouth,2.0
+974,Fort Dix,2026-02-09,Portsmouth,1.0
+975,Fort Polk,2026-02-09,Beaumont,1.0
+976,Fort Still,2026-02-09,Beaumont,2.0
+977,Fort Irwin,2026-02-09,San Diego,1.0
+978,Fort Knox,2026-02-09,Morehead City,2.0
+979,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+980,Camp Shelby,2026-02-09,Gulfport,1.0
+981,Fort Hood,2026-02-09,Beaumont,1.0
+982,Fort Lewis,2026-02-09,Tacoma,1.0
+983,Camp Atterbury,2026-02-09,Morehead City,2.0
+984,Fort Bliss,2026-02-09,San Diego,2.0
+985,Camp Pendleton,2026-02-09,Port Hueneme,1.0
+986,Fort Stewart,2026-02-09,Morehead City,1.0
+987,Fort Bragg,2026-02-09,Charleston,1.0
+988,Fort McCoy,2026-02-09,Portsmouth,3.0
+989,Fort Carson,2026-02-09,Beaumont,2.0
+990,Camp Lejune,2026-02-09,Portsmouth,1.0
+991,Fort Campbell,2026-02-09,Morehead City,2.0
+992,Fort Riley,2026-02-09,Beaumont,2.0
+993,Fort Drum,2026-02-09,Portsmouth,2.0
+994,Fort Dix,2026-02-09,Portsmouth,1.0
+995,Fort Polk,2026-02-09,Gulfport,1.0
+996,Fort Still,2026-02-09,Gulfport,2.0
+997,Fort Irwin,2026-02-09,Oakland,1.0
+998,Fort Knox,2026-02-09,Portsmouth,2.0
+999,Fort Leonard Wood,2026-02-09,Beaumont,2.0
+1000,Camp Shelby,2026-02-09,Beaumont,1.0
