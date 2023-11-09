@@ -1,4 +1,5 @@
 # Author: Lennon Conson
+# TODO Need to switch all of the input files to square meters
 
 import pyomo.environ as pyo
 from pyomo.environ import *
@@ -86,6 +87,22 @@ with open(intraC_file, 'r') as file:
         c[key] = value
         J.add(row[1])
 
+# Load in Daily Port Processing Limits
+b = {}
+
+port_limits_file = "daily-port-processing-capabilities.csv"
+# Encoded Packages Dictionary with Packages CSV file
+with open(port_limits_file, mode='r') as file:
+    csv_reader = csv.reader(file)
+    
+    next(csv_reader)
+    
+    for row in csv_reader:
+        key = row[0]
+        value = float(row[1])
+        b[key] = value
+
+
 print("Check to make sure there are no slight variations of spelling in list of Origins.")
 print("")
 print("Origins")
@@ -147,6 +164,8 @@ def rld(model,p):
     return sum(model.x[p,j,t] for j in J for t in eldDates) == 0
 
 model.constRLD = Constraint(P.keys(), rule=rld)
+
+# Ensure a SPOE does not exceed daily processing.
 
 print("Dimension of RLD Constraint is " + str(len(model.constRLD)))
 
