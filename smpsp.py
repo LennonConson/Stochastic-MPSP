@@ -37,6 +37,8 @@ with open(packages_file, mode='r') as file:
                 date_obj = datetime.date.fromisoformat(date_string)
                 row[date_column] = date_obj
         # Store the remaining columns as a sub-dictionary
+
+        row['Square Meters']= float(row['Square Meters'])
         P[key] = row
 
 # Set of Origins
@@ -167,7 +169,7 @@ model.constRLD = Constraint(P.keys(), rule=rld)
 
 # Ensure a SPOE does not exceed daily processing.
 def capSPOE(model,j):
-    return sum(model.x[p,j,t] for p in P.keys() for t in T) <= b[j]
+    return sum(P[p]['Square Meters']*model.x[p,j,t]() for p in P.keys() for t in T) <= b[j]
 
 model.constCapSPOE = Constraint(J, rule=capSPOE)
 
@@ -198,4 +200,21 @@ with open(routes_file, 'w', newline='') as csvfile:
 print("Optimum Route Saved as "+routes_file)
 
 # SPOE Daily Incoming Usage
+spoe_daily = {}
+
+for j in J:
+    for t in T:
+        cap = 0
+        for p in P.keys():
+            cap += P[p]['Square Meters']*model.x[p,j,t]()
+        spoe_daily[(j,t)] = cap
+
+daily_spoe_inflow = "daily_spoe_inflow.csv"
+
+with open(daily_spoe_inflow, 'w', newline='') as csvfile:
+    csvwriter = csv.writer(csvfile)
+    csvwriter.writerow(['J', 'T', 'Capacity'])
+    for (j, t), cap in spoe_daily.items():
+        csvwriter.writerow([j, t, cap])
+print("Daily SPOE Inflow Processing  as "+ daily_spoe_inflow)
 
