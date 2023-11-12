@@ -169,7 +169,7 @@ model.constRLD = Constraint(P.keys(), rule=rld)
 
 # Ensure a SPOE does not exceed daily processing.
 def capSPOE(model,j):
-    return sum(P[p]['Square Meters']*model.x[p,j,t]() for p in P.keys() for t in T) <= b[j]
+    return sum(P[p]['Square Meters']*(model.x[p,j,t]) for p in P.keys() for t in T) <= b[j]
 
 model.constCapSPOE = Constraint(J, rule=capSPOE)
 
