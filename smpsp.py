@@ -215,8 +215,8 @@ daily_spoe_inflow = "daily_spoe_inflow.csv"
 
 with open(daily_spoe_inflow, 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
-    csvwriter.writerow(['J', 'T', 'Capacity'])
+    csvwriter.writerow(['SPOE', 'Date', 'Inflow','Capacity'])
     for (j, t), cap in spoe_daily.items():
-        csvwriter.writerow([j, t, cap])
+        csvwriter.writerow([j, t, cap, b[j]])
 print("Daily SPOE Inflow Processing  as "+ daily_spoe_inflow)
 
