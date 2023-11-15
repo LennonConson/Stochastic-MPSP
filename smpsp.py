@@ -168,18 +168,20 @@ def rld(model,p):
 model.constRLD = Constraint(P.keys(), rule=rld)
 
 # Ensure a SPOE does not exceed daily processing.
-def capSPOE(model,j):
-    return sum(P[p]['Square Meters']*(model.x[p,j,t]) for p in P.keys() for t in T) <= b[j]
+def capSPOE(model,j,t):
+    return sum(P[p]['Square Meters']*(model.x[p,j,t]) for p in P.keys()) <= b[j]
 
-model.constCapSPOE = Constraint(J, rule=capSPOE)
+model.constCapSPOE = Constraint(J, T, rule=capSPOE)
 
 
 print("Dimension of RLD Constraint is " + str(len(model.constRLD)))
 
-solver = SolverFactory('cplex')
-results = solver.solve(model)
+opt = pyo.SolverFactory('cplex') 
+results = opt.solve(model)
+pyo.assert_optimal_termination(results)
+# model.display()
 
-print("Optimal solution found with objective value:", model.obj())
+# print("Optimal solution found with objective value:", model.obj())
 
 # Routes Output Routine
 routes = []
