@@ -41,6 +41,7 @@ with open(packages_file, mode='r') as file:
         row['Square Meters']= float(row['Square Meters'])
         P[key] = row
 
+
 # Set of Origins
 I = set()
 
@@ -126,12 +127,13 @@ print("-------------------")
 for k in K:
     print(k)
 
+
+
 # Decision Variables
 model.x = Var(P.keys(), J, T, domain=Binary)
 
 print("")
 print("Dimension of x_pjt is " + str(len(model.x)))
-
 
 # Objective
 # TODO Current Objective not very useful
