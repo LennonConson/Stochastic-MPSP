@@ -71,6 +71,8 @@ while indexDate <= latestDate:
     T.append(indexDate)
     indexDate += datetime.timedelta(days=1)
 
+# TODO Add the ordinal date.
+
 # Setup intracontential travel time durations
 # TODO Add error handeling
 # TODO Delete useless entries
@@ -104,7 +106,6 @@ with open(port_limits_file, mode='r') as file:
         key = row[0]
         value = float(row[1])
         b[key] = value
-
 
 print("Check to make sure there are no slight variations of spelling in list of Origins.")
 print("")
