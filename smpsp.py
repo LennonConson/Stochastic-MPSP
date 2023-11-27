@@ -6,57 +6,35 @@ from pyomo.environ import *
 from pyomo.opt import SolverFactory
 import os
 import tracemalloc
-import time
 import csv
 from datetime import date
+from datetime import timedelta
 
 tracemalloc.start()
 
 model = ConcreteModel('Stochastic Military Port Selection Problem')
-import csv
-import datetime
 
-packages_file = 'packages.csv'
+# Importing packages.csv file
+def process_packages_csv(file_path='packages.csv'):
+    packages_dict = {}
+    with open(file_path, newline='') as csv_file:
+        reader = csv.DictReader(csv_file)
+        for row in reader:
+            new_row = row.copy()
+            package_id = row['Package ID']
+            del new_row['Package ID']
+            packages_dict[package_id] = new_row
+            packages_dict[package_id]['RLD'] = date.fromisoformat(packages_dict[package_id]['RLD'])
+            packages_dict[package_id]['EAD'] = date.fromisoformat(packages_dict[package_id]['EAD'])
+            packages_dict[package_id]['LAD'] = date.fromisoformat(packages_dict[package_id]['LAD'])
+            packages_dict[package_id]['Ordinal RLD'] = None
+            packages_dict[package_id]['Ordinal EAD'] = None
+            packages_dict[package_id]['Ordinal LAD'] = None
+            packages_dict[package_id]['Square Meters'] = float(packages_dict[package_id]['Square Meters'])
+    return packages_dict
 
-# TODO error handeling for encoding packages.
-# Initialize a packages dictionary
-P = {}
-
-# Encoded Packages Dictionary with Packages CSV file
-P = {}
-with open('packages.csv', newline='') as csv_file:
-    reader = csv.DictReader(csv_file)
-    for row in reader:
-        new_row = row.copy()
-        package_id = row['Package ID']
-        del new_row['Package ID']
-        P[package_id] = new_row
-        P[package_id]['RLD'] = date.fromisoformat(P[package_id]['RLD'])
-        P[package_id]['EAD'] = date.fromisoformat(P[package_id]['EAD'])
-        P[package_id]['LAD'] = date.fromisoformat(P[package_id]['LAD'])
-        P[package_id]['Ordinal RLD'] = None
-        P[package_id]['Ordinal EAD'] = None
-        P[package_id]['Ordinal LAD'] = None
-        P[package_id]['Square Meters'] = float(P[package_id]['Square Meters'])
-
-with open(packages_file, mode='r') as file:
-    reader = csv.DictReader(file)
-
-    # Iterate over each row in the CSV file
-    for row in reader:
-        # Use the first column value as the key
-        key = row.pop(reader.fieldnames[0])
-
-        # Convert ISO date strings to datetime objects
-        for date_column in ["RLD", "EAD", "LAD"]:
-            if date_column in row:
-                date_string = row[date_column]
-                date_obj = datetime.date.fromisoformat(date_string)
-                row[date_column] = date_obj
-        # Store the remaining columns as a sub-dictionary
-
-        row['Square Meters']= float(row['Square Meters'])
-        P[key] = row
+# To use the function and get the dictionary:
+P = process_packages_csv()
 
 
 # Set of Origins
@@ -68,8 +46,8 @@ K = set()
 # Iterate through all keys in the dictionary and add their values to the origin/detination set
 
 #TODO there is a more eligant method that escapes me right now.
-latestDate = datetime.date(2025, 12, 3)
-earliestDate = datetime.date(2324, 4, 24)
+latestDate = date(2025, 12, 3)
+earliestDate = date(2324, 4, 24)
 
 for key in P:
     I.add(P[key]['Origin'])
@@ -86,7 +64,7 @@ indexDate = earliestDate
 
 while indexDate <= latestDate:
     T.append(indexDate)
-    indexDate += datetime.timedelta(days=1)
+    indexDate += timedelta(days=1)
 
 # TODO Add the ordinal date.
 
@@ -175,13 +153,13 @@ def rld(model,p):
     indexDate = earliestDate
 
     eldDates = [indexDate]
-    indexDate += datetime.timedelta(days=1)
+    indexDate += timedelta(days=1)
     
     lastDate = P[p]['RLD']
 
     while indexDate < lastDate:
         eldDates.append(indexDate)
-        indexDate += datetime.timedelta(days=1)
+        indexDate += timedelta(days=1)
 
     return sum(model.x[p,j,t] for j in J for t in eldDates) == 0
 
