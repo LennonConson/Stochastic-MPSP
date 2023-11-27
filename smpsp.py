@@ -8,6 +8,7 @@ import os
 import tracemalloc
 import time
 import csv
+from datetime import date
 
 tracemalloc.start()
 
@@ -22,6 +23,22 @@ packages_file = 'packages.csv'
 P = {}
 
 # Encoded Packages Dictionary with Packages CSV file
+P = {}
+with open('packages.csv', newline='') as csv_file:
+    reader = csv.DictReader(csv_file)
+    for row in reader:
+        new_row = row.copy()
+        package_id = row['Package ID']
+        del new_row['Package ID']
+        P[package_id] = new_row
+        P[package_id]['RLD'] = date.fromisoformat(P[package_id]['RLD'])
+        P[package_id]['EAD'] = date.fromisoformat(P[package_id]['EAD'])
+        P[package_id]['LAD'] = date.fromisoformat(P[package_id]['LAD'])
+        P[package_id]['Ordinal RLD'] = None
+        P[package_id]['Ordinal EAD'] = None
+        P[package_id]['Ordinal LAD'] = None
+        P[package_id]['Square Meters'] = float(P[package_id]['Square Meters'])
+
 with open(packages_file, mode='r') as file:
     reader = csv.DictReader(file)
 
