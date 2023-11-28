@@ -58,9 +58,6 @@ for key in package_dict:
     package_dict[key]['Ordinal RLD'] = (package_dict[key]['RLD'] - earliest_date).days
     package_dict[key]['Ordinal RLD'] = (package_dict[key]['RLD'] - earliest_date).days
     package_dict[key]['Ordinal RLD'] = (package_dict[key]['RLD'] - earliest_date).days
-
-
-
 time_horizon = range((latest_date-earliest_date).days+1)
 
 # Setup intracontential travel time durations and set of spoes
@@ -79,8 +76,6 @@ with open('intracontinental.times.csv') as csv_file:
 # Load in Daily Port Processing Limits
 daily_processing_limits = {}
 
-port_limits_file = "daily-port-processing-capabilities.csv"
-
 # Encoded Packages Dictionary with Packages CSV file
 with open("daily-port-processing-capabilities.csv") as csv_file:
     reader = csv.reader(csv_file)
@@ -89,6 +84,8 @@ with open("daily-port-processing-capabilities.csv") as csv_file:
         key = row[0]
         value = float(row[1])
         daily_processing_limits[key] = value
+
+
 
 print("Check to make sure there are no slight variations of spelling in list of Origins.")
 print("")
