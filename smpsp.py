@@ -24,109 +24,99 @@ def process_packages_csv(file_path='packages.csv'):
             package_id = row['Package ID']
             del new_row['Package ID']
             packages_dict[package_id] = new_row
+            #Convert Strings to Dates
             packages_dict[package_id]['RLD'] = date.fromisoformat(packages_dict[package_id]['RLD'])
             packages_dict[package_id]['EAD'] = date.fromisoformat(packages_dict[package_id]['EAD'])
             packages_dict[package_id]['LAD'] = date.fromisoformat(packages_dict[package_id]['LAD'])
+            # Add Place holder for Ordinal Date
             packages_dict[package_id]['Ordinal RLD'] = None
             packages_dict[package_id]['Ordinal EAD'] = None
             packages_dict[package_id]['Ordinal LAD'] = None
+            #Convert String to a Floats
             packages_dict[package_id]['Square Meters'] = float(packages_dict[package_id]['Square Meters'])
     return packages_dict
 
 # To use the function and get the dictionary:
-P = process_packages_csv()
+package_dict = process_packages_csv()
 
-
-# Set of Origins
-I = set()
-
-#Set of Destinations
-K = set()
-
-# Iterate through all keys in the dictionary and add their values to the origin/detination set
+# Set up Origins, SPODs, and find the time horizon
+origins = set()
+spods = set()
 
 #TODO there is a more eligant method that escapes me right now.
-latestDate = date(2025, 12, 3)
-earliestDate = date(2324, 4, 24)
+latest_date = date(1900, 12, 3)
+earliest_date = date(2324, 4, 24)
 
-for key in P:
-    I.add(P[key]['Origin'])
-    K.add(P[key]['Destination'])
-    if P[key]['RLD'] < earliestDate:
-        earliestDate = P[key]['RLD']
-    if P[key]['LAD'] > latestDate:
-        latestDate = P[key]['LAD']
+for key in package_dict:
+    origins.add(package_dict[key]['Origin'])
+    spods.add(package_dict[key]['SPOD'])
+    if package_dict[key]['RLD'] < earliest_date:
+        earliest_date = package_dict[key]['RLD']
+    if package_dict[key]['LAD'] > latest_date:
+        latest_date = package_dict[key]['LAD']
+
+# Find the Ordinal RLD, EAD, LAD
+for key in package_dict:
+    package_dict[key]['Ordinal RLD'] = (package_dict[key]['RLD'] - earliest_date).days
+    package_dict[key]['Ordinal RLD'] = (package_dict[key]['RLD'] - earliest_date).days
+    package_dict[key]['Ordinal RLD'] = (package_dict[key]['RLD'] - earliest_date).days
 
 
-T = []
 
-indexDate = earliestDate
+time_horizon = range((latest_date-earliest_date).days)
 
-while indexDate <= latestDate:
-    T.append(indexDate)
-    indexDate += timedelta(days=1)
+# Setup intracontential travel time durations and set of spoes
+intra_duration = {}
+spoes = set()
 
-# TODO Add the ordinal date.
-
-# Setup intracontential travel time durations
-# TODO Add error handeling
-# TODO Delete useless entries
-c = {}
-J = set()
-
-intraC_file = 'intracontinental.times.csv'
-
-with open(intraC_file, 'r') as file:
-    csv_reader = csv.reader(file)
-
-    next(csv_reader)
-
-    for row in csv_reader:
+with open('intracontinental.times.csv') as csv_file:
+    reader = csv.reader(csv_file)
+    next(reader)
+    for row in reader:
         key = (row[0], row[1])
         value = float(row[2])
-        c[key] = value
-        J.add(row[1])
+        intra_duration[key] = value
+        spoes.add(row[1])
 
 # Load in Daily Port Processing Limits
-b = {}
+daily_processing_limits = {}
 
 port_limits_file = "daily-port-processing-capabilities.csv"
+
 # Encoded Packages Dictionary with Packages CSV file
-with open(port_limits_file, mode='r') as file:
-    csv_reader = csv.reader(file)
-    
-    next(csv_reader)
-    
-    for row in csv_reader:
+with open("daily-port-processing-capabilities.csv") as csv_file:
+    reader = csv.reader(csv_file)
+    next(reader)
+    for row in reader:
         key = row[0]
         value = float(row[1])
-        b[key] = value
+        daily_processing_limits[key] = value
 
 print("Check to make sure there are no slight variations of spelling in list of Origins.")
 print("")
 print("Origins")
 print("-------------------")
-for i in I:
+for i in origins:
     print(i)
 
 print("Check to make sure there are no slight variations of spelling in list of SPOE.")
 print("")
 print("SPOE")
 print("-------------------")
-for j in J:
+for j in spoes:
     print(j)
 
 print("Check to make sure there are no slight variations of spelling in list of SPOD.")
 print("")
 print("SPOD")
 print("-------------------")
-for k in K:
+for k in spods:
     print(k)
 
 
 
 # Decision Variables
-model.x = Var(P.keys(), J, T, domain=Binary)
+model.x = Var(package_dict.keys(), spoes, time_horizon, domain=Binary)
 
 print("")
 print("Dimension of x_pjt is " + str(len(model.x)))
@@ -134,23 +124,23 @@ print("Dimension of x_pjt is " + str(len(model.x)))
 # Objective
 # TODO Current Objective not very useful
 def obj_rule(model):
-    return sum(((t - earliestDate).days + c[P[p]['Origin'],j ]) * model.x[p,j,t] for p in P.keys() for j in J for t in T)
+    return sum((t + intra_duration[package_dict[p]['Origin'],j ]) * model.x[p,j,t] for p in package_dict.keys() for j in spoes for t in time_horizon)
 
 model.obj = pyo.Objective(rule=obj_rule)
 
 # Constraints
-
 # Ensure a package only goes through a single port
-def singlePort(model, p):
-    return sum(model.x[p, j, t] for j in J for t in T) == 1
+def single_port(model, p):
+    return sum(model.x[p, j, t] for j in spoes for t in time_horizon) == 1
 
-model.constSinglePort = Constraint(P.keys(), rule=singlePort)
+model.constSinglePort = Constraint(package_dict.keys(), rule=single_port)
 
 print("Dimension of Single Port Constraint is " + str(len(model.constSinglePort)))
 
+quit()
 # Ensure a package doesn't leave origin before the RLD
 def rld(model,p):
-    indexDate = earliestDate
+    indexDate = earliest_date
 
     eldDates = [indexDate]
     indexDate += timedelta(days=1)
@@ -164,7 +154,7 @@ def rld(model,p):
     return sum(model.x[p,j,t] for j in J for t in eldDates) == 0
 
 model.constRLD = Constraint(P.keys(), rule=rld)
-
+quit()
 # Ensure a SPOE does not exceed daily processing.
 def capSPOE(model,j,t):
     return sum(P[p]['Square Meters']*(model.x[p,j,t]) for p in P.keys()) <= b[j]
