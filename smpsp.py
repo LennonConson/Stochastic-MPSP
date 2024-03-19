@@ -147,7 +147,7 @@ model.constCapSPOE = Constraint(spoes, time_horizon, rule=capSPOE)
 
 print("Dimension of RLD Constraint is " + str(len(model.constRLD)))
 tic = time.time()
-opt = pyo.SolverFactory('gurobi') 
+opt = pyo.SolverFactory('cplex') 
 results = opt.solve(model)
 toc = time.time()
 print('Solve time ', toc - tic)
