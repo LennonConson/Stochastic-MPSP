@@ -10,7 +10,7 @@ from datetime import date
 from datetime import timedelta
 import time
 
-model = ConcreteModel('Stochastic Military Port Selection Problem')
+
 
 # Importing packages.csv file
 def process_packages_csv(file_path='packages.csv'):
